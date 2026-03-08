@@ -1,10 +1,10 @@
-# EduPath UAE: AI-Driven Student Pathway & University Recommendation System
+# AI-Driven Student Pathway & University Recommendation System
 
 ### CSCI323 - Modern Artificial Intelligence Project
 **University of Wollongong in Dubai (UOWD)**
 
 ## Project Overview
-EduPath UAE is a dual-stage machine learning solution designed to automate academic advising for high school students in the UAE. The system predicts whether a student should enter a **Direct Entry (Year 13)** pathway or a **University Foundation** program and recommends a top UAE university based on their academic profile.
+This project is a dual-stage machine learning solution designed to automate academic advising for high school students in the UAE. The system predicts whether a student should enter a **Direct Entry (Year 13)** pathway or a **University Foundation** program and recommends a top UAE university based on their academic profile.
 
 ## Key Features
 * **Stochastic Data Generation:** A custom script simulating 1,500+ student records with realistic "messy" data (nulls, duplicates, and noise).
