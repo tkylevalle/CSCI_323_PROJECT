@@ -1,0 +1,1601 @@
+Student_Ref,Gender,Math,Phys,Eng,ICT,EmSAT_Eng,Target_Uni,Pathway
+ID_7681,M,77.5,62.2,63.9,81.8,1470.0,ADU,Year 13
+ID_1494,female,85.2,55.6,80.4,72.4,1284.0,CUD,Year 13
+ID_7014,F,73.6,26.7,83.2,59.7,1293.0,Zayed Uni,Foundation
+ID_3938,Male,58.9,94.3,72.7,78.8,1044.0,UOWD,Foundation
+ID_5558,female,61.8,67.2,69.0,89.4,1473.0,AUS,Year 13
+ID_3710,Male,60.5,64.7,64.4,87.9,1095.0,Murdoch,Foundation
+ID_7524,female,73.1,25.8,77.2,88.6,1148.0,RIT Dubai,Foundation
+ID_7858,F,46.3,55.8,85.6,82.1,959.0,Birmingham Uni,Foundation
+ID_8227,FEMALE,74.9,57.3,80.8,88.7,1624.0,RIT Dubai,Foundation
+ID_2147,Male,81.3,48.2,71.9,82.0,1644.0,Amity,Foundation
+ID_8658,Male,62.8,61.3,86.8,67.2,1609.0,University of Wollongong Dubai,Foundation
+ID_4333,Male,74.4,72.2,68.5,82.3,1785.0,KU,Foundation
+ID_8319,M,69.5,96.3,71.0,77.3,1045.0,CUD,Foundation
+ID_5324,F,85.6,60.6,78.6,95.7,1270.0,uowd,Foundation
+ID_6580,M,57.9,55.0,80.0,91.9,1464.0,RIT Dubai,Year 13
+ID_8933,female,74.7,66.9,84.7,69.6,1318.0,Zayed Uni,Year 13
+ID_9304,Male,64.1,35.7,48.4,82.1,1301.0,CUD,Foundation
+ID_6480,Male,65.7,61.8,79.0,100.6,1444.0,Murdoch,Year 13
+ID_3970,female,73.9,63.5,74.8,57.9,1132.0,BUiD,Year 13
+ID_4720,FEMALE,,66.2,99.6,75.7,1475.0,AUD,Year 13
+ID_3883,M,69.5,41.6,82.7,64.2,1206.0,BUiD,Foundation
+ID_3539,female,81.6,93.1,61.0,85.0,1948.0,RIT Dubai,Year 13
+ID_6663,FEMALE,,53.7,92.1,88.5,1402.0,ADU,Foundation
+ID_1613,M,64.5,43.8,79.7,67.0,1787.0,uowd,Foundation
+ID_3135,F,58.3,58.6,71.4,84.7,1661.0,Heriot-Watt,Year 13
+ID_6613,FEMALE,77.9,32.9,76.8,81.1,1595.0,RIT Dubai,Year 13
+ID_4715,Male,51.4,38.6,81.2,92.6,1457.0,Murdoch,Foundation
+ID_6655,FEMALE,,70.9,67.9,100.4,1518.0,Manipal,Foundation
+ID_9111,Male,52.1,78.1,67.5,64.4,1592.0,uowd,Year 13
+ID_8617,M,89.0,81.4,94.0,75.1,1212.0,Heriot-Watt,Year 13
+ID_8147,FEMALE,56.7,48.7,83.8,75.1,1702.0,Manipal,Foundation
+ID_8770,FEMALE,78.1,59.7,102.2,85.5,1186.0,RIT Dubai,Year 13
+ID_8126,Male,53.9,74.6,73.8,86.9,1287.0,ADU,Foundation
+ID_5435,F,81.7,56.1,83.6,80.6,1089.0,Middlesex Dubai,Foundation
+ID_4207,F,72.6,72.7,77.3,68.3,1664.0,Heriot-Watt,Foundation
+ID_9024,Male,70.8,86.7,85.5,61.5,1166.0,CUD,Foundation
+ID_5982,Male,77.7,75.3,75.2,88.5,1759.0,CUD,Foundation
+ID_6449,FEMALE,70.1,84.1,81.5,74.2,1590.0,Am. Uni Sharjah,Foundation
+ID_5345,FEMALE,58.4,60.3,74.6,71.6,953.0,AUD,Foundation
+ID_8889,M,75.4,55.6,85.9,78.8,1131.0,Manipal,Foundation
+ID_7717,Male,59.3,78.6,98.9,100.1,1741.0,Uni of Dubai,Year 13
+ID_7704,M,82.4,24.5,76.9,70.1,1613.0,Middlesex Dubai,Year 13
+ID_8936,M,,62.7,67.3,97.9,1316.0,UOWD,Foundation
+ID_4859,FEMALE,65.2,100.3,79.0,62.9,1629.0,CUD,Year 13
+ID_9650,M,101.8,85.6,67.7,62.6,1341.0,CUD,Foundation
+ID_8001,F,98.1,0.2,64.8,75.0,1088.0,Heriot-Watt,Foundation
+ID_2527,M,94.5,36.4,73.7,72.4,1415.0,BUiD,Foundation
+ID_3818,F,105.2,45.4,79.6,80.4,1250.0,AUS,Foundation
+ID_9103,Male,71.0,57.3,56.0,93.4,1246.0,Murdoch,Foundation
+ID_4039,F,101.7,62.0,80.9,81.4,1244.0,AUD,Foundation
+ID_5190,Male,66.9,55.1,68.8,73.7,1638.0,CUD,Year 13
+ID_6082,female,91.8,81.3,81.3,68.1,1260.0,AUD,Year 13
+ID_2527,F,81.2,77.2,57.1,63.4,1233.0,Murdoch,Year 13
+ID_2973,Male,87.4,60.6,86.0,87.9,1603.0,uowd,Year 13
+ID_3749,female,89.6,65.4,72.6,88.2,1332.0,Khalifa Uni,Year 13
+ID_7931,M,60.8,66.9,81.0,68.2,1923.0,Birmingham Uni,Foundation
+ID_1293,Male,54.9,40.7,82.7,86.0,1225.0,Khalifa Uni,Year 13
+ID_1741,M,69.9,84.5,73.5,68.1,1320.0,Murdoch,Year 13
+ID_8797,F,76.2,53.7,70.7,80.4,1540.0,BUiD,Foundation
+ID_8770,FEMALE,83.1,36.0,60.9,69.4,1347.0,Uni of Dubai,Foundation
+ID_7020,female,74.7,94.5,72.0,77.9,1229.0,Amity,Year 13
+ID_8268,M,69.3,71.5,66.7,84.2,1783.0,RIT Dubai,Foundation
+ID_8572,M,68.4,73.0,71.6,83.5,1417.0,BUiD,Foundation
+ID_1146,female,84.8,67.0,67.3,78.3,1524.0,Heriot-Watt,Year 13
+ID_4965,female,91.8,84.2,87.0,99.8,1372.0,RIT Dubai,Foundation
+ID_8891,F,84.6,48.2,69.0,52.5,1269.0,Uni of Dubai,Foundation
+ID_6744,female,58.6,68.0,55.9,82.3,1543.0,BUiD,Year 13
+ID_4050,M,84.6,38.6,93.3,92.2,1283.0,Birmingham Uni,Foundation
+ID_6876,FEMALE,44.3,92.1,77.8,81.3,787.0,ADU,Foundation
+ID_3188,F,56.5,65.1,75.5,72.6,1556.0,Zayed Uni,Year 13
+ID_1403,Male,54.0,62.2,61.3,84.4,1665.0,BUiD,Foundation
+ID_8659,FEMALE,93.1,71.6,67.5,96.6,1429.0,Birmingham Uni,Foundation
+ID_9614,FEMALE,87.7,66.4,85.3,80.0,1145.0,AUS,Foundation
+ID_1960,F,,77.9,88.7,66.4,1572.0,Murdoch,Foundation
+ID_1827,FEMALE,85.9,29.8,83.9,76.4,1450.0,BUiD,Foundation
+ID_3822,M,37.4,97.6,61.2,57.6,1386.0,Khalifa Uni,Year 13
+ID_1241,M,75.8,64.3,86.2,60.7,1369.0,Murdoch,Year 13
+ID_5934,Male,68.9,72.3,65.6,71.8,1135.0,Amity,Foundation
+ID_9291,Male,69.1,84.1,70.5,72.3,1196.0,Amity,Foundation
+ID_6678,F,61.6,62.9,64.6,71.4,1101.0,uowd,Year 13
+ID_1632,FEMALE,,65.7,80.1,92.5,1613.0,Murdoch,Foundation
+ID_4110,M,60.7,54.4,69.2,74.7,825.0,RIT Dubai,Foundation
+ID_5244,M,47.3,92.3,83.5,66.1,1407.0,CUD,Foundation
+ID_6514,FEMALE,84.5,62.4,65.4,58.7,1451.0,Uni of Dubai,Year 13
+ID_2770,F,,36.6,64.4,70.1,1207.0,Birmingham Uni,Foundation
+ID_3353,F,64.7,98.7,83.8,77.9,1770.0,CUD,Year 13
+ID_3255,FEMALE,71.2,47.8,70.6,97.0,1303.0,Amity,Foundation
+ID_1870,M,60.0,83.5,94.1,61.2,1541.0,Birmingham Uni,Foundation
+ID_4216,female,60.2,55.3,66.7,71.5,774.0,CUD,Foundation
+ID_2857,F,80.3,60.2,65.9,71.1,1589.0,Manipal,Foundation
+ID_1835,M,77.5,45.4,95.4,97.4,1633.0,BUiD,Year 13
+ID_5071,FEMALE,58.6,49.7,57.0,58.5,1412.0,Am. Uni Sharjah,Foundation
+ID_3560,Male,73.9,46.9,63.6,81.2,2096.0,UOWD,Year 13
+ID_7188,F,45.8,47.8,71.2,90.1,1256.0,Heriot-Watt,Foundation
+ID_2625,Male,82.5,42.4,67.8,107.2,957.0,University of Wollongong Dubai,Foundation
+ID_8890,female,54.5,72.4,69.0,79.0,1361.0,ADU,Year 13
+ID_3305,M,87.5,70.1,69.1,85.1,1320.0,uowd,Foundation
+ID_2509,female,65.2,70.8,95.8,88.5,1318.0,Zayed Uni,Foundation
+ID_3160,F,88.0,56.8,68.2,51.2,1663.0,Murdoch,Foundation
+ID_5369,F,57.3,71.5,72.8,88.0,847.0,Murdoch,Foundation
+ID_6579,F,73.5,80.4,76.7,84.8,1181.0,Uni of Dubai,Foundation
+ID_3726,FEMALE,64.0,77.7,97.7,80.2,1462.0,Zayed Uni,Year 13
+ID_1396,M,63.1,48.0,90.1,82.8,1313.0,Middlesex Dubai,Foundation
+ID_9162,F,82.4,59.6,65.2,72.7,1494.0,Heriot-Watt,Year 13
+ID_1063,FEMALE,81.4,46.6,88.9,90.1,992.0,Middlesex Dubai,Foundation
+ID_9989,female,74.2,29.4,90.0,85.9,1386.0,Khalifa Uni,Foundation
+ID_3265,female,74.2,42.5,73.0,78.6,1846.0,Manipal,Foundation
+ID_6232,Male,78.9,49.2,79.7,100.6,1736.0,Middlesex Dubai,Year 13
+ID_3135,F,93.9,54.8,74.1,87.4,2035.0,Am. Uni Sharjah,Foundation
+ID_5886,FEMALE,77.9,61.8,70.7,65.9,986.0,uowd,Foundation
+ID_2613,female,82.3,66.5,87.7,68.2,1024.0,AUS,Foundation
+ID_8975,FEMALE,66.1,60.1,72.3,45.6,1386.0,Khalifa Uni,Year 13
+ID_5567,FEMALE,66.5,78.9,64.8,84.2,1200.0,Am. Uni Sharjah,Foundation
+ID_8748,FEMALE,67.5,116.5,75.6,78.2,1394.0,AUD,Foundation
+ID_5848,FEMALE,73.0,62.1,100.7,64.7,1747.0,Birmingham Uni,Foundation
+ID_2432,F,30.1,89.9,54.3,73.9,1307.0,AUD,Foundation
+ID_4630,female,48.9,49.4,71.4,77.2,1521.0,CUD,Year 13
+ID_9745,Male,58.4,79.4,63.7,71.7,1522.0,Birmingham Uni,Foundation
+ID_7108,FEMALE,51.7,79.3,83.1,66.7,1459.0,Amity,Year 13
+ID_3692,M,73.8,43.4,81.2,85.1,1323.0,CUD,Year 13
+ID_7021,M,74.9,40.0,62.6,68.2,1729.0,Khalifa Uni,Foundation
+ID_4675,female,43.7,39.4,92.5,53.0,1824.0,KU,Foundation
+ID_9090,female,73.2,63.1,84.7,77.6,1316.0,Manipal,Year 13
+ID_7619,female,,71.2,57.9,61.8,1586.0,Middlesex Dubai,Foundation
+ID_3259,F,72.6,61.3,62.1,79.2,993.0,RIT Dubai,Foundation
+ID_2237,F,78.3,85.6,79.7,81.1,1646.0,Murdoch,Year 13
+ID_6061,Male,95.0,85.3,73.4,87.7,1496.0,KU,Foundation
+ID_4369,female,,75.4,67.7,80.2,1211.0,Heriot-Watt,Foundation
+ID_4708,M,60.8,36.9,88.4,67.4,1543.0,Uni of Dubai,Year 13
+ID_5227,FEMALE,43.7,74.9,76.8,67.7,1575.0,RIT Dubai,Foundation
+ID_2253,FEMALE,61.4,67.4,58.1,89.8,1312.0,Murdoch,Year 13
+ID_5022,M,73.6,64.3,92.7,70.5,1853.0,Am. Uni Sharjah,Foundation
+ID_7566,female,80.6,53.8,64.1,89.2,959.0,Am. Uni Sharjah,Foundation
+ID_6283,Male,87.2,63.5,81.2,80.1,1066.0,Uni of Dubai,Foundation
+ID_7556,FEMALE,75.7,77.2,87.9,90.7,1287.0,Zayed Uni,Year 13
+ID_7576,female,79.5,73.6,77.1,81.3,1081.0,Heriot-Watt,Foundation
+ID_6561,F,53.8,86.1,86.3,77.0,1284.0,Murdoch,Year 13
+ID_8527,F,83.3,66.9,70.4,72.8,1323.0,Manipal,Year 13
+ID_2177,FEMALE,73.3,55.4,72.4,79.6,1503.0,UOWD,Foundation
+ID_8987,female,41.1,85.6,60.1,81.2,1622.0,Murdoch,Year 13
+ID_7475,FEMALE,71.2,86.3,87.2,69.8,1273.0,Middlesex Dubai,Year 13
+ID_6477,F,32.7,56.1,89.5,97.0,1269.0,Uni of Dubai,Foundation
+ID_1062,female,63.7,59.4,64.9,65.4,917.0,Manipal,Foundation
+ID_2932,Male,51.9,84.7,72.9,77.4,1569.0,AUD,Foundation
+ID_1369,FEMALE,53.2,72.6,86.7,97.5,1008.0,KU,Foundation
+ID_4203,Male,71.1,52.5,69.4,70.4,1697.0,Amity,Year 13
+ID_5964,female,91.3,53.6,78.4,73.5,1224.0,RIT Dubai,Year 13
+ID_8908,M,59.4,96.0,93.0,70.6,1303.0,RIT Dubai,Year 13
+ID_6028,M,74.3,71.7,66.5,79.3,963.0,KU,Foundation
+ID_5492,M,51.1,64.3,92.9,71.8,1456.0,Amity,Year 13
+ID_1803,female,69.8,88.8,87.1,82.1,1731.0,ADU,Year 13
+ID_6750,F,53.0,76.7,71.4,85.1,1677.0,Murdoch,Year 13
+ID_3271,F,82.3,75.1,85.1,96.4,1238.0,CUD,Year 13
+ID_4296,F,77.2,61.7,76.5,92.5,1196.0,Amity,Foundation
+ID_5581,female,75.5,57.1,72.7,78.0,1604.0,RIT Dubai,Year 13
+ID_8032,Male,47.7,37.8,82.5,85.7,1941.0,BUiD,Year 13
+ID_7812,FEMALE,65.4,69.4,80.4,78.6,1702.0,Murdoch,Foundation
+ID_5436,M,48.4,56.1,76.9,90.9,1143.0,Khalifa Uni,Foundation
+ID_2794,FEMALE,72.0,51.0,70.2,79.5,1492.0,Murdoch,Foundation
+ID_9738,female,,96.3,74.3,71.3,1870.0,University of Wollongong Dubai,Foundation
+ID_7460,FEMALE,48.3,21.0,81.5,89.8,1680.0,Birmingham Uni,Foundation
+ID_9631,F,89.7,78.0,74.0,100.2,1132.0,UOWD,Year 13
+ID_2804,M,47.1,51.2,84.0,75.5,1222.0,Uni of Dubai,Foundation
+ID_1430,female,,40.0,89.4,77.0,1679.0,Am. Uni Sharjah,Foundation
+ID_6724,M,75.1,74.1,79.6,85.3,1164.0,Birmingham Uni,Year 13
+ID_1118,M,,68.9,82.1,76.9,1760.0,University of Wollongong Dubai,Foundation
+ID_5258,FEMALE,59.9,101.0,67.6,77.8,1002.0,Zayed Uni,Foundation
+ID_7442,Male,78.5,56.1,56.1,72.6,794.0,ADU,Foundation
+ID_5154,FEMALE,46.2,80.2,78.7,83.7,1394.0,Zayed Uni,Year 13
+ID_2956,F,61.4,64.9,63.4,96.0,1619.0,RIT Dubai,Foundation
+ID_1850,Male,66.7,65.5,66.2,78.5,1333.0,CUD,Year 13
+ID_2093,M,68.7,45.0,72.2,99.6,1560.0,ADU,Year 13
+ID_7127,M,61.4,76.5,77.8,68.4,1853.0,RIT Dubai,Foundation
+ID_1102,Male,75.4,82.9,81.4,90.6,1266.0,Zayed Uni,Foundation
+ID_1392,F,89.8,69.0,79.0,104.2,1308.0,Birmingham Uni,Foundation
+ID_1712,FEMALE,73.1,52.0,70.2,74.2,1506.0,CUD,Year 13
+ID_5031,FEMALE,77.8,53.5,104.7,76.8,1167.0,BUiD,Year 13
+ID_8409,F,81.3,65.8,76.2,85.4,1144.0,ADU,Foundation
+ID_9766,Male,66.1,31.6,84.3,88.5,934.0,ADU,Foundation
+ID_5467,M,56.5,69.5,85.5,98.2,1285.0,AUS,Year 13
+ID_8932,Male,86.2,64.2,58.7,71.1,1600.0,uowd,Year 13
+ID_1257,female,72.7,94.5,88.8,70.5,1499.0,Zayed Uni,Foundation
+ID_5438,F,77.4,70.2,78.2,74.5,987.0,Zayed Uni,Foundation
+ID_2830,female,69.2,80.4,46.5,91.8,965.0,RIT Dubai,Foundation
+ID_7062,M,64.6,42.6,83.1,63.1,1677.0,Birmingham Uni,Year 13
+ID_2208,FEMALE,59.4,64.1,79.8,78.9,1079.0,Birmingham Uni,Foundation
+ID_8453,FEMALE,84.9,55.1,81.5,61.3,1190.0,UOWD,Year 13
+ID_2022,M,77.8,58.6,95.8,82.6,1508.0,Uni of Dubai,Year 13
+ID_7278,female,85.5,69.8,71.7,71.4,1412.0,AUD,Year 13
+ID_9770,F,59.7,79.7,74.2,78.9,900.0,AUS,Foundation
+ID_2887,F,83.7,71.9,54.0,113.3,1182.0,UOWD,Foundation
+ID_6665,female,,87.2,64.6,85.4,1137.0,AUD,Foundation
+ID_7173,F,60.6,103.3,80.5,67.0,1392.0,Manipal,Year 13
+ID_1095,M,100.1,69.0,85.5,91.3,1697.0,AUD,Year 13
+ID_4590,F,79.6,42.1,67.3,81.6,1651.0,Heriot-Watt,Foundation
+ID_1964,female,66.2,97.3,79.5,75.1,1641.0,Amity,Year 13
+ID_7565,female,87.8,40.4,82.2,85.6,1722.0,University of Wollongong Dubai,Year 13
+ID_1458,F,66.1,61.5,75.2,64.8,1040.0,Khalifa Uni,Foundation
+ID_2270,M,93.9,48.1,59.5,74.4,1077.0,Manipal,Foundation
+ID_4844,female,61.0,97.8,85.1,69.7,1963.0,AUD,Year 13
+ID_1600,M,84.7,58.5,70.5,77.8,1111.0,Birmingham Uni,Year 13
+ID_4579,M,47.0,85.5,99.4,94.6,1541.0,Murdoch,Foundation
+ID_4850,FEMALE,78.9,82.1,72.5,82.7,1353.0,ADU,Year 13
+ID_1928,Male,78.3,31.1,74.0,66.1,1124.0,AUD,Foundation
+ID_8204,F,72.7,92.8,90.1,87.3,1249.0,UOWD,Foundation
+ID_1540,female,46.2,76.0,65.3,79.3,1066.0,Uni of Dubai,Foundation
+ID_4370,M,61.0,71.4,89.0,77.1,1255.0,Manipal,Foundation
+ID_7134,M,71.0,67.4,80.4,78.6,1410.0,Heriot-Watt,Foundation
+ID_1949,F,59.5,51.7,86.5,74.4,1331.0,uowd,Year 13
+ID_2378,M,81.3,50.6,83.9,74.5,1712.0,AUD,Foundation
+ID_8470,FEMALE,59.9,70.6,97.2,63.1,1531.0,ADU,Year 13
+ID_5007,M,59.0,61.3,73.7,78.5,1363.0,Heriot-Watt,Year 13
+ID_9383,Male,84.5,109.2,89.6,57.8,1479.0,KU,Foundation
+ID_4616,female,70.0,48.9,91.4,98.1,1262.0,KU,Year 13
+ID_6775,FEMALE,78.5,97.6,64.0,69.5,1253.0,Manipal,Year 13
+ID_6930,FEMALE,67.0,69.7,59.4,82.0,1608.0,KU,Year 13
+ID_2993,FEMALE,40.1,72.5,81.9,101.4,1335.0,RIT Dubai,Year 13
+ID_5779,F,95.9,76.2,75.8,84.5,1170.0,Murdoch,Year 13
+ID_3536,F,72.5,36.7,90.8,74.3,1729.0,ADU,Foundation
+ID_1699,Male,51.8,43.2,71.8,92.6,1435.0,Heriot-Watt,Year 13
+ID_5062,Male,104.8,72.9,69.7,82.3,1526.0,Amity,Foundation
+ID_3677,female,78.7,49.3,61.7,56.0,1527.0,CUD,Year 13
+ID_5952,female,53.4,21.9,83.4,78.4,1463.0,AUS,Foundation
+ID_3817,F,70.0,66.6,74.0,89.0,1327.0,Middlesex Dubai,Foundation
+ID_1806,F,74.0,71.4,69.9,75.2,1103.0,Heriot-Watt,Foundation
+ID_2671,female,64.7,65.6,74.9,91.0,1519.0,Heriot-Watt,Foundation
+ID_7203,F,69.6,81.4,68.5,84.4,769.0,Khalifa Uni,Foundation
+ID_2718,female,71.0,52.8,73.1,78.7,1532.0,ADU,Foundation
+ID_3883,female,68.9,74.7,46.1,81.5,1471.0,UOWD,Year 13
+ID_4259,M,58.1,95.6,87.2,75.4,1773.0,University of Wollongong Dubai,Foundation
+ID_7163,F,72.2,58.3,69.4,73.1,1308.0,University of Wollongong Dubai,Year 13
+ID_7535,Male,59.4,57.2,76.7,79.9,1401.0,AUS,Foundation
+ID_9013,FEMALE,76.6,88.8,80.0,105.5,1139.0,Murdoch,Foundation
+ID_6678,F,66.9,37.7,72.8,64.0,950.0,KU,Foundation
+ID_8291,M,78.1,80.2,74.7,75.9,1302.0,uowd,Foundation
+ID_2242,FEMALE,69.8,54.1,78.9,60.3,1446.0,Heriot-Watt,Year 13
+ID_2724,FEMALE,69.8,76.6,55.4,102.7,1102.0,University of Wollongong Dubai,Foundation
+ID_6440,Male,69.4,61.5,92.1,61.5,997.0,BUiD,Foundation
+ID_3118,female,92.1,60.8,86.4,64.6,1000.0,Heriot-Watt,Foundation
+ID_6746,F,63.9,108.1,68.9,86.9,1475.0,UOWD,Foundation
+ID_9017,female,89.5,96.2,63.1,78.8,1422.0,Manipal,Foundation
+ID_6549,FEMALE,95.8,57.7,76.8,61.8,1157.0,uowd,Foundation
+ID_9172,M,88.0,51.9,70.5,72.8,1471.0,Uni of Dubai,Year 13
+ID_6689,F,59.4,84.9,67.4,60.9,1775.0,Birmingham Uni,Year 13
+ID_3451,FEMALE,65.2,60.0,81.4,92.7,1254.0,ADU,Year 13
+ID_2149,F,70.6,52.1,84.3,78.7,1467.0,CUD,Year 13
+ID_1715,Male,92.9,75.2,66.5,82.3,1539.0,Heriot-Watt,Foundation
+ID_4508,F,66.8,44.1,55.3,102.7,1124.0,Birmingham Uni,Year 13
+ID_2856,Male,66.7,59.5,61.6,89.0,1476.0,Zayed Uni,Foundation
+ID_2585,M,74.0,61.7,77.8,75.0,1802.0,Zayed Uni,Foundation
+ID_2576,F,77.4,79.7,64.6,84.0,1482.0,UOWD,Year 13
+ID_4556,M,70.5,73.0,68.5,71.7,1547.0,AUD,Foundation
+ID_8621,female,88.6,65.4,98.0,90.9,925.0,uowd,Foundation
+ID_5269,FEMALE,71.2,80.1,78.8,93.5,1568.0,ADU,Year 13
+ID_3718,M,,40.5,83.3,66.9,1722.0,Birmingham Uni,Foundation
+ID_4221,Male,63.7,98.4,78.9,63.6,1511.0,Amity,Foundation
+ID_6155,female,87.9,52.8,60.5,64.7,1286.0,Khalifa Uni,Year 13
+ID_6647,Male,57.7,99.5,71.0,80.7,1633.0,RIT Dubai,Foundation
+ID_6071,Male,48.7,29.8,86.7,71.1,1445.0,Uni of Dubai,Foundation
+ID_1968,Male,57.5,53.7,76.8,96.5,1902.0,uowd,Year 13
+ID_9403,M,100.9,89.2,68.8,87.9,1398.0,Khalifa Uni,Foundation
+ID_9708,M,89.7,61.6,70.5,86.4,1639.0,Murdoch,Foundation
+ID_3648,FEMALE,71.3,94.6,70.7,67.4,1189.0,Heriot-Watt,Foundation
+ID_8828,F,68.0,95.3,81.3,65.7,1864.0,Uni of Dubai,Year 13
+ID_5467,F,88.3,76.6,86.5,74.3,1700.0,Middlesex Dubai,Year 13
+ID_5782,M,40.9,55.2,63.8,79.7,958.0,Khalifa Uni,Foundation
+ID_5575,Male,74.8,62.0,85.3,75.7,1308.0,University of Wollongong Dubai,Year 13
+ID_8931,Male,76.0,41.6,46.3,77.7,1843.0,Amity,Year 13
+ID_3884,FEMALE,94.9,55.9,78.5,64.8,1499.0,KU,Foundation
+ID_2987,M,61.4,63.0,73.0,67.5,1193.0,KU,Year 13
+ID_2046,female,66.6,72.3,72.0,96.8,1268.0,RIT Dubai,Year 13
+ID_4921,F,69.8,16.5,83.8,86.8,1330.0,AUD,Foundation
+ID_1328,F,71.0,75.3,73.9,70.8,1621.0,Birmingham Uni,Year 13
+ID_7331,F,56.2,80.9,62.5,81.5,1061.0,University of Wollongong Dubai,Foundation
+ID_1209,F,77.0,64.3,66.9,74.2,1293.0,Am. Uni Sharjah,Year 13
+ID_6858,FEMALE,61.9,69.0,86.5,65.8,1415.0,Amity,Foundation
+ID_9836,FEMALE,76.4,78.9,78.8,99.7,1379.0,Birmingham Uni,Foundation
+ID_3653,Male,57.6,73.7,84.0,49.6,1148.0,ADU,Year 13
+ID_7951,female,79.3,106.1,89.0,78.7,1238.0,Birmingham Uni,Foundation
+ID_5780,Male,69.1,52.1,67.0,72.2,1162.0,KU,Foundation
+ID_8398,Male,71.8,97.5,71.4,84.1,1479.0,AUD,Year 13
+ID_3294,M,69.5,82.7,74.2,75.8,2198.0,BUiD,Foundation
+ID_6941,M,74.5,50.0,88.1,71.2,942.0,Uni of Dubai,Foundation
+ID_9053,F,73.0,102.5,85.8,72.6,1720.0,RIT Dubai,Year 13
+ID_1165,Male,71.0,82.1,84.8,85.9,1608.0,AUS,Year 13
+ID_6136,FEMALE,63.6,58.3,71.0,66.5,1506.0,Birmingham Uni,Foundation
+ID_3039,Male,100.9,43.6,76.9,80.9,1530.0,Middlesex Dubai,Year 13
+ID_8503,F,70.1,43.8,79.3,75.8,1646.0,uowd,Foundation
+ID_2970,F,87.8,116.8,66.9,85.2,1468.0,Zayed Uni,Foundation
+ID_9301,FEMALE,74.6,44.9,86.4,93.8,1370.0,Am. Uni Sharjah,Year 13
+ID_5162,M,38.2,52.8,70.0,89.9,1536.0,ADU,Year 13
+ID_8076,M,57.4,60.2,71.3,73.3,1169.0,Heriot-Watt,Year 13
+ID_3535,Male,94.2,58.6,59.8,92.9,1374.0,uowd,Year 13
+ID_1176,female,88.4,46.9,78.2,63.9,1697.0,Manipal,Foundation
+ID_5693,M,63.0,69.0,71.0,84.3,1273.0,Zayed Uni,Year 13
+ID_3840,Male,81.7,67.5,94.4,66.0,1231.0,AUD,Foundation
+ID_3166,FEMALE,77.7,68.6,82.2,86.0,1097.0,ADU,Foundation
+ID_9257,female,82.5,78.5,94.0,76.4,1156.0,CUD,Year 13
+ID_9809,F,86.6,62.6,77.5,77.2,1353.0,Middlesex Dubai,Foundation
+ID_2917,Male,,71.6,76.9,86.5,1291.0,Khalifa Uni,Foundation
+ID_8673,M,77.7,59.8,83.9,71.7,1565.0,UOWD,Foundation
+ID_3005,female,64.2,72.3,93.4,75.3,1313.0,RIT Dubai,Year 13
+ID_6751,FEMALE,69.7,58.9,58.9,87.4,1663.0,Am. Uni Sharjah,Year 13
+ID_9573,F,,84.0,92.1,76.7,1358.0,Zayed Uni,Foundation
+ID_1264,Male,71.1,88.2,78.5,92.0,1466.0,AUD,Year 13
+ID_9648,M,79.6,68.8,85.0,45.6,1569.0,Murdoch,Year 13
+ID_8546,Male,60.2,28.4,83.9,80.8,1926.0,Khalifa Uni,Year 13
+ID_7712,M,53.3,97.8,82.4,78.9,1000.0,CUD,Foundation
+ID_9265,female,66.3,48.1,79.2,79.7,1770.0,University of Wollongong Dubai,Foundation
+ID_2336,Male,79.2,52.5,76.9,69.1,1070.0,Am. Uni Sharjah,Foundation
+ID_4468,female,60.8,64.3,72.8,53.2,1513.0,University of Wollongong Dubai,Year 13
+ID_1844,F,51.4,66.6,60.4,74.3,1212.0,AUD,Year 13
+ID_3586,female,74.8,91.8,78.8,75.8,1205.0,Khalifa Uni,Foundation
+ID_1539,FEMALE,67.1,58.6,67.0,90.9,1405.0,Heriot-Watt,Foundation
+ID_7723,M,98.5,63.8,71.0,70.2,1056.0,Zayed Uni,Foundation
+ID_3538,F,42.1,70.3,80.1,59.0,1624.0,Heriot-Watt,Year 13
+ID_6772,F,62.8,67.9,76.4,70.6,1223.0,Heriot-Watt,Foundation
+ID_1781,F,75.1,22.0,67.8,75.5,1153.0,Murdoch,Foundation
+ID_6370,female,68.0,66.5,80.1,76.0,1707.0,Khalifa Uni,Foundation
+ID_9922,F,87.4,63.0,75.2,86.5,1458.0,uowd,Foundation
+ID_7928,female,84.3,70.7,75.6,69.1,976.0,Uni of Dubai,Foundation
+ID_7247,Male,60.3,54.0,75.9,79.9,1143.0,University of Wollongong Dubai,Year 13
+ID_6368,Male,89.0,47.7,79.7,88.1,1860.0,Middlesex Dubai,Foundation
+ID_4344,F,58.8,85.0,68.3,94.7,1337.0,ADU,Year 13
+ID_4181,F,74.3,70.2,56.8,69.7,941.0,Khalifa Uni,Foundation
+ID_8413,female,87.6,85.7,86.3,64.9,1297.0,CUD,Year 13
+ID_8743,F,53.4,60.7,65.4,72.8,1412.0,Manipal,Year 13
+ID_8357,Male,67.6,53.8,72.9,57.8,1199.0,Manipal,Foundation
+ID_3539,female,84.5,97.3,93.9,72.5,1389.0,University of Wollongong Dubai,Year 13
+ID_3288,M,,75.9,75.1,72.8,1373.0,Middlesex Dubai,Foundation
+ID_7120,FEMALE,68.7,57.6,57.0,73.7,1377.0,Uni of Dubai,Foundation
+ID_1264,female,73.4,88.5,78.7,76.7,1512.0,Amity,Year 13
+ID_8341,M,46.4,42.5,76.8,63.8,1793.0,UOWD,Foundation
+ID_1613,M,73.8,29.0,69.6,68.5,1245.0,CUD,Year 13
+ID_8980,Male,67.5,55.6,75.6,83.9,1640.0,uowd,Foundation
+ID_4537,FEMALE,42.6,106.5,65.8,47.6,1328.0,AUS,Foundation
+ID_3398,FEMALE,86.5,104.2,70.5,62.7,1392.0,Murdoch,Year 13
+ID_2319,M,61.5,70.1,79.7,91.0,1424.0,Zayed Uni,Foundation
+ID_6172,female,74.6,57.2,68.3,88.5,1369.0,BUiD,Year 13
+ID_6985,FEMALE,52.4,87.5,74.5,56.7,1715.0,Manipal,Year 13
+ID_5161,female,56.4,51.9,77.4,49.0,2079.0,Birmingham Uni,Foundation
+ID_3117,F,66.0,63.9,77.9,84.3,1561.0,Am. Uni Sharjah,Foundation
+ID_3540,F,78.3,66.8,86.7,75.5,1366.0,AUD,Foundation
+ID_6047,M,85.1,78.1,76.9,77.8,1303.0,Heriot-Watt,Foundation
+ID_8956,female,86.9,84.0,70.9,69.0,1686.0,Uni of Dubai,Year 13
+ID_7447,M,62.0,84.1,80.1,86.7,1529.0,AUD,Year 13
+ID_7092,F,60.4,73.6,82.0,92.2,1546.0,University of Wollongong Dubai,Year 13
+ID_6989,F,76.7,64.5,66.2,76.0,1214.0,BUiD,Foundation
+ID_6044,female,59.9,62.1,76.1,76.4,1408.0,University of Wollongong Dubai,Year 13
+ID_3186,FEMALE,79.1,65.0,66.8,85.9,1634.0,Uni of Dubai,Year 13
+ID_3033,M,45.9,49.7,83.7,70.4,1361.0,Murdoch,Year 13
+ID_1951,Male,80.5,59.7,55.0,85.6,1090.0,Middlesex Dubai,Foundation
+ID_5261,female,70.9,70.5,66.5,82.0,1402.0,Middlesex Dubai,Foundation
+ID_7648,M,85.1,101.0,87.4,80.5,1277.0,RIT Dubai,Foundation
+ID_9996,female,82.1,45.5,77.4,94.4,1111.0,BUiD,Year 13
+ID_6569,M,71.0,64.5,57.3,69.7,1298.0,Middlesex Dubai,Foundation
+ID_1568,Male,62.1,68.0,68.7,78.2,1639.0,Middlesex Dubai,Foundation
+ID_1601,FEMALE,54.5,81.5,66.3,70.1,1324.0,University of Wollongong Dubai,Year 13
+ID_9923,M,49.8,48.6,85.3,70.0,1360.0,KU,Year 13
+ID_4844,Male,84.2,72.8,74.0,81.2,1254.0,Amity,Year 13
+ID_4090,female,33.4,62.3,80.2,68.2,1448.0,ADU,Foundation
+ID_2788,FEMALE,71.0,66.8,77.0,70.6,1321.0,Manipal,Year 13
+ID_9619,female,,89.1,79.1,76.5,692.0,ADU,Foundation
+ID_4163,M,70.3,54.0,62.8,71.9,1363.0,Middlesex Dubai,Year 13
+ID_9819,F,63.2,94.0,71.0,83.8,1307.0,ADU,Foundation
+ID_5499,M,101.6,78.4,64.3,59.4,1604.0,Birmingham Uni,Foundation
+ID_4059,female,75.6,47.0,85.8,61.6,1787.0,AUS,Year 13
+ID_9017,M,58.6,58.4,81.0,71.5,1359.0,Heriot-Watt,Foundation
+ID_2556,M,70.6,45.0,59.7,64.4,1345.0,AUD,Foundation
+ID_2882,M,30.4,113.3,82.8,77.8,1334.0,Amity,Year 13
+ID_9712,female,70.3,75.9,85.5,69.3,1430.0,Middlesex Dubai,Year 13
+ID_3293,FEMALE,93.2,78.5,80.9,73.8,1257.0,Uni of Dubai,Foundation
+ID_7810,female,71.5,96.0,84.9,61.8,1568.0,Khalifa Uni,Year 13
+ID_8512,FEMALE,80.2,33.0,66.7,76.8,989.0,RIT Dubai,Foundation
+ID_3099,Male,67.4,98.2,80.4,78.6,1349.0,AUS,Foundation
+ID_1222,M,60.2,57.5,71.8,93.4,1539.0,Murdoch,Foundation
+ID_4098,Male,53.3,69.9,62.0,96.9,1107.0,Am. Uni Sharjah,Foundation
+ID_3807,FEMALE,82.7,60.3,79.7,89.8,1381.0,UOWD,Foundation
+ID_3716,FEMALE,65.2,68.0,64.1,76.1,1409.0,Heriot-Watt,Year 13
+ID_4234,F,78.8,105.5,75.1,75.7,1311.0,Khalifa Uni,Foundation
+ID_8286,FEMALE,67.3,92.5,69.4,77.0,1350.0,UOWD,Foundation
+ID_7422,Male,51.5,56.4,80.9,58.8,1516.0,Amity,Foundation
+ID_9344,FEMALE,100.4,37.7,76.6,78.5,1537.0,uowd,Foundation
+ID_5467,Male,61.3,73.5,75.2,70.3,1522.0,CUD,Year 13
+ID_4823,FEMALE,97.1,61.2,88.9,92.1,1458.0,Uni of Dubai,Foundation
+ID_3054,female,52.0,58.7,75.0,63.0,1551.0,Birmingham Uni,Year 13
+ID_8279,female,83.2,56.0,73.5,67.5,1395.0,CUD,Foundation
+ID_5567,female,62.7,57.8,68.5,86.9,1355.0,Am. Uni Sharjah,Foundation
+ID_3650,female,60.3,91.4,77.5,79.8,1425.0,Amity,Foundation
+ID_4961,Male,78.8,51.3,82.9,54.4,1623.0,AUS,Year 13
+ID_7418,FEMALE,51.8,79.6,59.7,78.4,1453.0,Manipal,Foundation
+ID_7420,F,67.2,67.1,80.8,101.7,1009.0,University of Wollongong Dubai,Foundation
+ID_5851,Male,94.3,67.1,82.8,74.5,1753.0,Am. Uni Sharjah,Year 13
+ID_7253,F,63.9,36.0,74.9,63.0,1491.0,Khalifa Uni,Foundation
+ID_1265,Male,83.3,56.6,75.1,86.5,1716.0,Middlesex Dubai,Year 13
+ID_7250,M,64.5,89.7,64.3,86.2,1698.0,Uni of Dubai,Foundation
+ID_5833,female,43.3,71.4,81.9,47.3,1217.0,AUD,Year 13
+ID_4637,Male,54.7,78.6,63.5,86.0,1516.0,Birmingham Uni,Year 13
+ID_2335,FEMALE,44.1,51.4,83.6,85.0,1285.0,Khalifa Uni,Foundation
+ID_8100,female,53.0,53.0,89.2,98.9,1645.0,CUD,Foundation
+ID_5448,FEMALE,71.3,48.8,79.8,71.2,1542.0,UOWD,Foundation
+ID_9875,female,,78.0,60.0,90.6,1150.0,UOWD,Foundation
+ID_7268,F,64.2,70.0,51.9,79.9,1670.0,Amity,Year 13
+ID_8698,F,84.9,69.6,80.0,86.0,1505.0,AUD,Foundation
+ID_8408,F,82.6,52.7,62.0,63.3,1665.0,CUD,Foundation
+ID_8008,Male,84.1,64.9,81.7,64.9,1303.0,Zayed Uni,Foundation
+ID_5101,FEMALE,80.4,82.0,74.4,83.5,1594.0,uowd,Year 13
+ID_4114,female,55.0,75.0,75.5,78.1,1235.0,Heriot-Watt,Year 13
+ID_9001,Male,80.5,73.4,77.4,94.6,1151.0,AUD,Year 13
+ID_6232,F,65.8,55.4,66.4,86.3,1302.0,Uni of Dubai,Year 13
+ID_5861,female,85.9,77.3,86.1,101.2,1417.0,Middlesex Dubai,Year 13
+ID_3927,FEMALE,60.4,44.4,61.5,59.7,1678.0,AUS,Foundation
+ID_1316,FEMALE,60.6,95.7,68.0,89.2,1853.0,KU,Foundation
+ID_2976,F,60.1,61.9,69.5,79.9,1525.0,Manipal,Year 13
+ID_3341,Male,86.8,94.0,90.2,72.1,1326.0,uowd,Foundation
+ID_5381,FEMALE,62.1,71.9,74.5,78.4,1210.0,Middlesex Dubai,Year 13
+ID_4177,Male,66.5,46.5,68.6,98.4,1123.0,ADU,Year 13
+ID_6041,female,45.1,63.3,60.5,66.9,1149.0,Birmingham Uni,Foundation
+ID_7343,M,73.1,66.4,74.2,80.2,1449.0,Manipal,Year 13
+ID_9096,female,57.8,39.0,83.3,87.7,1113.0,BUiD,Foundation
+ID_2114,Male,82.3,95.8,81.6,59.6,1346.0,Zayed Uni,Foundation
+ID_6810,F,74.2,85.9,86.7,75.2,1389.0,Birmingham Uni,Year 13
+ID_5880,M,47.0,75.3,73.9,84.0,1304.0,Uni of Dubai,Foundation
+ID_7118,Male,76.3,64.5,73.3,80.7,1308.0,Uni of Dubai,Year 13
+ID_2014,FEMALE,68.0,81.5,91.8,72.1,1404.0,Amity,Year 13
+ID_9722,F,68.7,39.2,81.9,72.0,1466.0,UOWD,Foundation
+ID_4266,FEMALE,74.4,60.3,68.0,67.6,1826.0,Am. Uni Sharjah,Foundation
+ID_6483,FEMALE,65.5,53.4,77.4,84.0,1518.0,Uni of Dubai,Year 13
+ID_7863,Male,71.1,79.9,89.2,86.2,1439.0,Manipal,Year 13
+ID_4384,FEMALE,95.7,78.7,72.9,90.9,1991.0,Khalifa Uni,Year 13
+ID_3001,Male,58.2,37.4,86.1,85.7,1935.0,Birmingham Uni,Year 13
+ID_3506,female,58.7,52.9,92.2,101.9,1208.0,UOWD,Year 13
+ID_4709,female,61.8,82.2,68.1,78.0,1598.0,Khalifa Uni,Foundation
+ID_7711,female,69.8,55.1,89.4,62.9,1603.0,KU,Foundation
+ID_1598,M,65.8,59.4,80.4,65.5,1434.0,Zayed Uni,Year 13
+ID_4908,FEMALE,72.5,58.4,68.9,65.0,1194.0,Manipal,Foundation
+ID_8694,female,114.2,89.9,85.5,72.4,1233.0,Heriot-Watt,Foundation
+ID_8444,FEMALE,85.1,62.5,78.3,79.0,845.0,Am. Uni Sharjah,Foundation
+ID_7691,M,66.6,48.0,61.0,78.2,1504.0,AUS,Year 13
+ID_2236,FEMALE,82.7,73.4,81.1,102.7,1117.0,Birmingham Uni,Year 13
+ID_8698,F,77.1,46.5,64.6,86.9,1428.0,Murdoch,Year 13
+ID_1585,F,96.2,50.8,62.4,75.4,1323.0,AUD,Foundation
+ID_1766,FEMALE,106.4,73.7,73.5,70.9,1216.0,UOWD,Year 13
+ID_7351,FEMALE,59.5,85.4,95.9,59.0,930.0,ADU,Foundation
+ID_2426,Male,98.1,72.8,75.0,62.4,1654.0,Heriot-Watt,Foundation
+ID_5706,FEMALE,66.4,44.7,75.9,66.9,1464.0,University of Wollongong Dubai,Year 13
+ID_3875,F,56.6,56.8,70.3,62.6,1367.0,Zayed Uni,Foundation
+ID_2309,M,72.7,59.0,74.5,109.4,1122.0,Amity,Year 13
+ID_3889,F,92.0,84.9,87.4,79.6,1490.0,KU,Year 13
+ID_8400,Male,75.1,86.9,68.7,62.2,1349.0,Heriot-Watt,Foundation
+ID_1208,F,58.0,63.7,72.2,89.3,1524.0,Birmingham Uni,Year 13
+ID_6579,Male,70.7,52.9,77.1,92.4,1277.0,University of Wollongong Dubai,Foundation
+ID_1975,M,41.9,77.4,62.5,60.3,1353.0,University of Wollongong Dubai,Foundation
+ID_9681,Male,60.7,82.9,87.7,85.8,1116.0,Murdoch,Year 13
+ID_7088,Male,67.0,64.9,77.7,96.2,1749.0,KU,Foundation
+ID_5540,Male,76.2,66.7,89.1,82.9,1185.0,Khalifa Uni,Year 13
+ID_2629,M,91.1,79.0,76.5,76.6,1489.0,uowd,Year 13
+ID_2967,M,73.3,99.0,85.7,80.3,1635.0,Murdoch,Year 13
+ID_2549,F,54.5,73.0,65.1,89.2,1242.0,AUS,Year 13
+ID_4569,FEMALE,54.9,57.6,60.9,78.2,1626.0,AUS,Foundation
+ID_2488,M,56.4,95.4,86.1,85.2,1632.0,ADU,Year 13
+ID_2949,FEMALE,53.5,68.4,80.5,63.9,1176.0,CUD,Year 13
+ID_2501,FEMALE,79.0,46.0,59.7,85.4,1661.0,Middlesex Dubai,Year 13
+ID_8776,female,78.1,51.1,80.8,81.1,1265.0,University of Wollongong Dubai,Foundation
+ID_9233,F,,25.7,71.7,83.9,1265.0,UOWD,Foundation
+ID_5187,F,71.0,78.6,72.0,74.0,1583.0,Am. Uni Sharjah,Foundation
+ID_8660,Male,75.0,71.3,67.9,79.5,1690.0,Middlesex Dubai,Year 13
+ID_3425,female,57.8,44.7,72.6,77.5,1366.0,Zayed Uni,Foundation
+ID_9383,female,75.0,93.6,63.0,86.3,1734.0,AUS,Foundation
+ID_9229,Male,,72.7,85.9,102.1,1656.0,BUiD,Year 13
+ID_8046,female,73.7,85.9,92.7,72.1,1061.0,RIT Dubai,Foundation
+ID_6646,F,61.7,72.4,54.0,85.5,1621.0,Am. Uni Sharjah,Foundation
+ID_5732,Male,61.1,67.5,86.9,92.1,1540.0,Birmingham Uni,Foundation
+ID_5805,Male,67.6,104.3,75.0,90.1,1735.0,RIT Dubai,Year 13
+ID_8645,M,58.9,55.3,62.9,82.5,1301.0,Middlesex Dubai,Foundation
+ID_2771,FEMALE,97.3,58.3,78.4,96.6,1613.0,CUD,Year 13
+ID_7896,F,76.2,74.3,65.2,114.7,1124.0,ADU,Foundation
+ID_6217,FEMALE,65.3,72.7,73.0,99.1,1793.0,UOWD,Foundation
+ID_4133,FEMALE,,62.0,66.9,76.2,1633.0,KU,Foundation
+ID_5750,FEMALE,73.9,42.4,81.2,85.6,1199.0,Heriot-Watt,Year 13
+ID_5212,FEMALE,83.4,52.4,77.9,78.9,1698.0,Murdoch,Year 13
+ID_2043,Male,68.2,54.7,73.0,75.5,1213.0,Am. Uni Sharjah,Foundation
+ID_8382,Male,67.3,34.0,58.0,72.4,1247.0,Khalifa Uni,Foundation
+ID_2815,female,85.8,55.3,71.5,68.8,1076.0,CUD,Foundation
+ID_8411,M,63.2,68.6,71.2,82.0,1620.0,ADU,Year 13
+ID_4198,F,64.3,64.4,66.5,84.9,954.0,AUD,Foundation
+ID_2771,F,64.6,71.0,63.3,78.2,1043.0,Amity,Foundation
+ID_7758,M,81.7,63.4,66.7,89.0,1263.0,Manipal,Foundation
+ID_3003,Male,68.2,52.3,80.4,97.7,1682.0,CUD,Year 13
+ID_5676,F,80.2,72.9,55.7,74.7,1611.0,CUD,Year 13
+ID_9991,female,69.3,36.9,41.8,60.4,1294.0,AUD,Foundation
+ID_8680,M,85.5,30.9,65.8,96.8,1332.0,KU,Year 13
+ID_2387,M,66.3,59.0,77.6,62.9,1312.0,CUD,Foundation
+ID_7594,F,110.3,70.9,59.8,95.7,1108.0,Am. Uni Sharjah,Year 13
+ID_1430,female,73.3,43.1,65.9,69.4,1510.0,Amity,Year 13
+ID_2325,female,63.5,42.9,77.2,92.6,1272.0,uowd,Foundation
+ID_5617,F,59.2,60.4,79.0,83.6,1530.0,Birmingham Uni,Year 13
+ID_3097,F,55.3,73.2,71.9,67.9,1178.0,UOWD,Foundation
+ID_5904,F,78.0,89.6,73.6,63.8,1221.0,Birmingham Uni,Foundation
+ID_6499,F,66.1,46.3,68.3,81.5,1353.0,University of Wollongong Dubai,Foundation
+ID_9871,FEMALE,36.4,22.6,74.6,63.4,1885.0,Birmingham Uni,Foundation
+ID_8866,F,49.0,54.5,88.9,73.4,1496.0,Uni of Dubai,Foundation
+ID_4822,Male,72.1,22.4,75.2,88.6,1237.0,Manipal,Foundation
+ID_7553,FEMALE,,23.3,92.2,74.6,1472.0,Zayed Uni,Foundation
+ID_1404,M,69.3,56.5,77.5,67.3,1196.0,AUS,Foundation
+ID_9640,FEMALE,61.8,56.0,87.6,71.6,1490.0,KU,Foundation
+ID_1494,M,59.0,80.2,82.4,79.4,1240.0,Heriot-Watt,Year 13
+ID_7107,F,,67.0,88.0,69.4,1586.0,Manipal,Foundation
+ID_9557,FEMALE,67.1,63.7,80.1,80.4,1574.0,Am. Uni Sharjah,Foundation
+ID_1502,Male,48.1,82.4,70.4,67.3,1639.0,Birmingham Uni,Foundation
+ID_3150,M,83.1,94.5,64.1,62.6,1373.0,AUS,Foundation
+ID_6004,female,58.0,84.9,70.3,85.7,1352.0,ADU,Year 13
+ID_2367,female,74.9,42.0,74.4,83.8,988.0,Uni of Dubai,Foundation
+ID_4340,female,70.1,89.1,82.8,83.6,1780.0,Birmingham Uni,Year 13
+ID_2137,M,55.8,99.9,72.3,85.1,1124.0,Heriot-Watt,Foundation
+ID_7795,F,83.9,54.4,64.4,92.7,1335.0,Heriot-Watt,Year 13
+ID_5251,F,75.3,53.6,74.4,55.8,1595.0,Manipal,Foundation
+ID_4696,female,45.6,83.2,76.1,93.2,1188.0,BUiD,Foundation
+ID_4392,M,78.2,69.0,94.1,87.7,1346.0,Khalifa Uni,Foundation
+ID_6192,Male,82.9,62.5,75.9,64.4,2003.0,Heriot-Watt,Foundation
+ID_7196,F,,77.0,79.2,103.0,964.0,Birmingham Uni,Foundation
+ID_5957,Male,78.7,26.8,66.4,73.0,1872.0,RIT Dubai,Foundation
+ID_5911,female,78.3,38.3,56.3,90.3,1507.0,CUD,Foundation
+ID_3740,Male,76.5,39.3,61.0,71.0,1660.0,Birmingham Uni,Foundation
+ID_7766,M,47.2,8.4,69.4,62.4,1521.0,ADU,Foundation
+ID_8189,Male,76.9,27.6,71.1,80.3,1512.0,CUD,Year 13
+ID_7110,M,62.4,65.7,63.5,74.3,1440.0,Uni of Dubai,Year 13
+ID_9776,M,70.8,58.1,76.7,66.4,1348.0,UOWD,Foundation
+ID_8447,M,79.2,68.1,72.8,70.4,854.0,Amity,Foundation
+ID_9209,M,87.2,73.5,87.0,61.5,1223.0,AUD,Foundation
+ID_8281,F,65.7,49.3,86.6,93.4,1359.0,Zayed Uni,Foundation
+ID_3536,FEMALE,59.8,71.3,71.7,76.9,1268.0,Khalifa Uni,Foundation
+ID_2205,female,47.3,71.4,78.5,74.9,1743.0,KU,Year 13
+ID_8459,FEMALE,91.4,69.0,91.3,69.2,1855.0,UOWD,Year 13
+ID_4767,Male,81.6,76.1,76.5,93.1,1342.0,University of Wollongong Dubai,Year 13
+ID_5929,F,87.5,61.3,78.1,77.3,1705.0,UOWD,Year 13
+ID_4991,F,40.7,67.9,72.7,77.0,1777.0,Heriot-Watt,Year 13
+ID_2034,FEMALE,59.6,85.8,80.8,76.4,1545.0,UOWD,Foundation
+ID_1948,F,59.4,82.1,75.7,74.0,1721.0,uowd,Foundation
+ID_1679,F,86.3,39.1,80.7,83.4,933.0,ADU,Foundation
+ID_6224,F,52.6,59.3,90.0,72.3,1190.0,uowd,Year 13
+ID_3441,F,,86.0,91.6,72.2,1247.0,Khalifa Uni,Year 13
+ID_5179,M,77.4,57.8,69.1,76.7,1421.0,Uni of Dubai,Year 13
+ID_9809,M,62.2,66.5,70.9,76.9,1391.0,UOWD,Year 13
+ID_5404,FEMALE,44.0,94.9,57.7,82.1,1145.0,BUiD,Year 13
+ID_1635,Male,84.0,81.9,53.7,76.8,1249.0,Uni of Dubai,Foundation
+ID_3581,F,76.5,74.4,81.4,71.4,904.0,Manipal,Foundation
+ID_9365,FEMALE,60.8,6.9,71.3,65.5,992.0,Zayed Uni,Foundation
+ID_2130,female,51.4,67.2,81.1,86.6,1357.0,Manipal,Foundation
+ID_2091,FEMALE,67.5,41.9,57.5,73.3,1440.0,Khalifa Uni,Foundation
+ID_6483,F,68.6,56.7,80.3,64.3,1531.0,Zayed Uni,Year 13
+ID_1251,FEMALE,65.1,45.0,67.5,60.4,1275.0,University of Wollongong Dubai,Foundation
+ID_5195,Male,84.6,75.3,71.2,92.2,1520.0,ADU,Foundation
+ID_9970,F,59.6,41.1,83.9,88.7,1857.0,uowd,Foundation
+ID_3242,F,63.9,79.2,61.9,99.2,941.0,Zayed Uni,Foundation
+ID_4244,female,58.2,57.6,79.4,80.2,1506.0,AUD,Year 13
+ID_2993,FEMALE,73.3,90.6,81.6,69.3,1547.0,Manipal,Foundation
+ID_7264,M,64.1,83.0,79.5,92.2,1105.0,uowd,Year 13
+ID_3469,female,95.0,95.5,57.8,99.9,1629.0,University of Wollongong Dubai,Year 13
+ID_7289,FEMALE,58.5,44.0,82.6,94.4,1574.0,AUS,Year 13
+ID_1220,F,74.3,45.2,72.1,52.6,1348.0,Zayed Uni,Year 13
+ID_3537,M,78.0,43.6,94.1,62.6,1447.0,Manipal,Year 13
+ID_7557,female,85.1,39.9,91.2,101.4,1207.0,University of Wollongong Dubai,Foundation
+ID_3509,Male,70.0,31.6,85.6,75.9,1593.0,BUiD,Year 13
+ID_5784,Male,76.6,50.3,94.0,80.9,1428.0,Middlesex Dubai,Foundation
+ID_7666,F,72.3,72.4,76.5,67.4,1222.0,BUiD,Year 13
+ID_6279,FEMALE,87.8,93.7,86.7,63.1,907.0,BUiD,Foundation
+ID_7641,female,80.6,69.6,81.5,75.4,1182.0,Uni of Dubai,Year 13
+ID_7490,Male,83.2,79.4,62.0,68.9,1406.0,Uni of Dubai,Foundation
+ID_4770,F,65.5,66.6,80.5,67.7,1408.0,Heriot-Watt,Year 13
+ID_9859,F,37.7,82.5,61.1,70.9,1329.0,Manipal,Foundation
+ID_4978,M,60.7,93.4,50.1,93.3,1485.0,AUD,Foundation
+ID_9987,F,51.9,43.5,87.1,91.7,1202.0,AUD,Foundation
+ID_9357,Male,64.0,69.3,64.7,91.2,1665.0,Amity,Foundation
+ID_7904,Male,78.0,72.2,82.5,95.3,1285.0,Khalifa Uni,Foundation
+ID_8370,FEMALE,43.9,57.8,79.2,77.4,1154.0,UOWD,Year 13
+ID_6083,female,86.8,111.4,86.8,105.3,1564.0,University of Wollongong Dubai,Year 13
+ID_3519,female,50.9,65.0,69.1,64.9,1609.0,uowd,Year 13
+ID_5885,Male,83.7,34.1,78.5,93.4,1199.0,KU,Year 13
+ID_3744,M,90.5,37.7,73.5,84.0,1849.0,BUiD,Foundation
+ID_8368,F,,60.1,71.3,76.1,1592.0,Amity,Foundation
+ID_2606,F,85.2,45.7,91.3,74.6,1798.0,Birmingham Uni,Year 13
+ID_9949,FEMALE,80.2,62.3,77.2,66.3,1378.0,Middlesex Dubai,Foundation
+ID_5394,FEMALE,75.1,66.6,53.7,83.5,1155.0,Zayed Uni,Year 13
+ID_6200,Male,52.7,31.3,72.9,89.5,1796.0,AUS,Year 13
+ID_8474,FEMALE,53.2,54.5,76.8,82.8,1433.0,BUiD,Foundation
+ID_8630,female,68.8,41.1,57.0,95.9,1192.0,Am. Uni Sharjah,Foundation
+ID_9906,F,64.6,75.1,67.7,104.0,1698.0,ADU,Foundation
+ID_1704,Male,73.2,85.5,76.8,94.7,1431.0,Am. Uni Sharjah,Year 13
+ID_7084,F,58.1,33.5,67.0,77.1,1381.0,Middlesex Dubai,Foundation
+ID_7175,F,99.6,37.3,87.0,81.8,1389.0,KU,Foundation
+ID_2510,Male,57.5,74.8,80.7,80.3,1375.0,Khalifa Uni,Foundation
+ID_3122,F,76.5,14.4,76.9,83.7,1745.0,Heriot-Watt,Foundation
+ID_1728,F,68.7,51.5,71.0,101.9,1192.0,KU,Year 13
+ID_2584,FEMALE,61.7,62.1,72.7,87.7,1327.0,AUD,Foundation
+ID_2790,M,,73.5,79.2,56.7,1666.0,Uni of Dubai,Foundation
+ID_9013,FEMALE,73.8,92.7,87.4,84.9,1020.0,Middlesex Dubai,Foundation
+ID_2466,F,96.2,110.4,83.9,84.9,1081.0,uowd,Foundation
+ID_6914,M,50.7,70.9,89.0,84.7,1014.0,ADU,Foundation
+ID_8422,Male,72.0,62.8,67.0,73.3,1297.0,Birmingham Uni,Year 13
+ID_2114,female,62.8,39.9,77.9,48.0,806.0,Murdoch,Foundation
+ID_6606,Male,64.9,65.4,63.3,98.3,1874.0,Amity,Foundation
+ID_1587,Male,72.4,85.5,96.0,85.2,1278.0,Uni of Dubai,Foundation
+ID_2612,M,82.3,63.2,74.2,78.6,1135.0,RIT Dubai,Foundation
+ID_4944,Male,59.2,39.3,78.2,79.6,1317.0,uowd,Foundation
+ID_9256,female,54.8,88.1,88.9,74.4,749.0,Heriot-Watt,Foundation
+ID_8075,F,64.6,63.7,76.1,84.1,1171.0,Uni of Dubai,Year 13
+ID_9268,FEMALE,87.0,58.5,72.9,84.0,1266.0,RIT Dubai,Foundation
+ID_8344,F,77.7,103.7,66.0,62.3,1526.0,AUD,Year 13
+ID_6929,F,64.8,55.0,61.3,81.9,1385.0,RIT Dubai,Foundation
+ID_2966,F,77.5,54.3,69.5,97.2,1700.0,KU,Foundation
+ID_6877,FEMALE,74.2,49.1,79.2,93.4,846.0,uowd,Foundation
+ID_2373,M,77.5,15.1,79.0,68.1,1150.0,RIT Dubai,Foundation
+ID_8864,F,65.7,53.4,63.3,75.6,1917.0,UOWD,Year 13
+ID_3076,FEMALE,42.5,44.0,63.2,81.2,2042.0,Manipal,Foundation
+ID_9914,FEMALE,49.6,78.6,66.9,77.4,1360.0,AUS,Foundation
+ID_3393,Male,75.0,94.0,81.1,99.3,1564.0,Uni of Dubai,Year 13
+ID_6879,FEMALE,82.4,42.8,74.6,71.6,1008.0,KU,Foundation
+ID_1453,M,75.2,115.2,75.0,75.3,1648.0,RIT Dubai,Year 13
+ID_4184,female,,77.8,76.2,76.6,1075.0,Birmingham Uni,Foundation
+ID_4463,FEMALE,73.5,49.9,80.8,47.9,1390.0,AUS,Foundation
+ID_5249,F,,69.6,85.7,80.7,1626.0,UOWD,Foundation
+ID_8263,M,65.5,91.2,76.4,87.9,1257.0,Amity,Year 13
+ID_7722,female,58.1,48.7,64.3,103.5,1733.0,uowd,Year 13
+ID_4593,Male,98.8,40.5,60.1,79.1,1220.0,Middlesex Dubai,Year 13
+ID_9469,female,46.6,86.4,81.0,105.6,1030.0,Birmingham Uni,Foundation
+ID_1230,M,88.9,87.9,81.5,73.6,1331.0,AUD,Foundation
+ID_4159,FEMALE,76.8,106.0,75.0,87.4,1202.0,AUD,Foundation
+ID_5442,Male,58.3,86.6,80.6,80.3,1651.0,uowd,Year 13
+ID_2927,female,59.5,45.3,72.2,92.3,1624.0,ADU,Foundation
+ID_5980,Male,49.4,72.0,68.1,56.6,1723.0,KU,Year 13
+ID_1283,female,81.5,34.1,68.7,85.2,1241.0,Birmingham Uni,Year 13
+ID_8237,M,66.5,79.9,59.9,64.1,1394.0,Khalifa Uni,Year 13
+ID_2146,Male,59.1,48.8,63.9,81.1,1453.0,BUiD,Year 13
+ID_1126,F,81.7,56.4,69.4,83.1,1483.0,RIT Dubai,Year 13
+ID_7234,M,72.1,65.1,54.1,79.9,1953.0,Middlesex Dubai,Year 13
+ID_7388,F,64.6,50.4,73.7,82.1,1701.0,Murdoch,Year 13
+ID_8051,FEMALE,81.6,62.2,78.4,90.4,1618.0,AUD,Year 13
+ID_5882,female,52.9,81.4,73.0,99.7,1312.0,Amity,Year 13
+ID_2926,F,85.7,68.6,87.3,85.2,1187.0,Amity,Year 13
+ID_1672,Male,107.3,70.3,78.8,82.5,1252.0,Uni of Dubai,Foundation
+ID_9777,Male,74.7,89.4,85.6,88.5,1321.0,Manipal,Foundation
+ID_5420,female,61.4,71.7,75.7,80.2,1054.0,University of Wollongong Dubai,Foundation
+ID_3951,M,81.9,62.2,78.1,71.7,1738.0,Uni of Dubai,Year 13
+ID_7658,M,76.4,65.8,61.3,63.0,719.0,Middlesex Dubai,Foundation
+ID_1160,F,84.1,129.9,98.1,75.8,1373.0,Zayed Uni,Year 13
+ID_5318,FEMALE,84.9,99.1,89.0,73.4,1528.0,Amity,Year 13
+ID_4638,M,62.7,41.0,51.8,88.3,1193.0,CUD,Year 13
+ID_2565,FEMALE,39.7,67.9,75.0,78.3,1343.0,uowd,Year 13
+ID_8916,F,79.3,57.6,61.5,69.4,1530.0,uowd,Foundation
+ID_4760,M,74.8,68.4,75.3,65.5,1092.0,Am. Uni Sharjah,Foundation
+ID_3197,F,47.7,53.3,78.3,93.0,1288.0,Khalifa Uni,Year 13
+ID_1885,female,59.6,25.6,86.4,78.3,1347.0,Am. Uni Sharjah,Foundation
+ID_7746,F,92.6,71.4,74.9,68.2,1606.0,RIT Dubai,Year 13
+ID_1505,female,73.4,65.4,77.9,71.2,1045.0,Birmingham Uni,Foundation
+ID_2263,M,62.2,85.0,70.0,68.6,1210.0,BUiD,Year 13
+ID_1027,female,43.4,74.4,84.2,74.4,1396.0,Birmingham Uni,Year 13
+ID_2906,M,83.7,62.0,71.7,65.5,1107.0,uowd,Foundation
+ID_9275,female,77.0,54.0,66.1,81.8,1521.0,Khalifa Uni,Foundation
+ID_6678,F,63.0,76.7,70.9,81.1,1340.0,Zayed Uni,Foundation
+ID_7708,female,70.1,58.5,68.6,67.3,1187.0,Amity,Year 13
+ID_3965,Male,48.1,40.7,76.6,67.3,1528.0,Middlesex Dubai,Foundation
+ID_9990,Male,70.5,25.6,82.9,93.6,1441.0,KU,Year 13
+ID_4659,female,52.1,39.7,57.1,73.4,1369.0,Heriot-Watt,Foundation
+ID_4663,Male,64.0,41.3,79.0,71.4,1729.0,Uni of Dubai,Year 13
+ID_9571,M,61.5,41.5,79.9,92.2,1520.0,BUiD,Year 13
+ID_1381,Male,67.0,54.4,61.0,93.8,1474.0,Amity,Year 13
+ID_6573,F,53.7,45.6,71.9,70.6,1223.0,Amity,Foundation
+ID_7904,M,84.7,37.6,65.1,94.9,1278.0,UOWD,Foundation
+ID_2491,F,78.0,54.5,79.9,93.6,1123.0,Murdoch,Year 13
+ID_1122,female,64.5,62.0,69.0,61.4,1266.0,Khalifa Uni,Year 13
+ID_1597,female,66.0,64.9,72.8,73.5,1218.0,CUD,Foundation
+ID_1433,F,74.8,98.1,90.5,107.0,1282.0,KU,Year 13
+ID_9081,M,63.6,43.1,60.2,69.1,1698.0,AUD,Foundation
+ID_9840,Male,,69.9,72.6,58.0,1586.0,Amity,Foundation
+ID_3988,Male,57.5,28.1,66.1,77.2,1534.0,RIT Dubai,Foundation
+ID_1313,Male,37.1,61.8,90.1,82.8,1265.0,uowd,Foundation
+ID_4303,M,86.0,57.1,85.0,94.7,1578.0,BUiD,Year 13
+ID_8667,FEMALE,76.4,72.6,73.8,71.2,1261.0,Birmingham Uni,Foundation
+ID_5204,Male,99.1,91.5,60.9,85.0,1216.0,KU,Foundation
+ID_3188,Male,48.8,69.4,73.8,98.0,1179.0,BUiD,Foundation
+ID_6355,female,31.2,102.1,77.2,73.8,997.0,Amity,Foundation
+ID_3208,female,,58.3,82.5,63.8,1445.0,University of Wollongong Dubai,Foundation
+ID_3377,Male,88.2,78.4,90.3,88.7,1590.0,RIT Dubai,Year 13
+ID_2535,F,70.9,72.8,69.3,80.4,1652.0,Middlesex Dubai,Foundation
+ID_9516,F,61.8,53.1,51.1,73.1,1628.0,KU,Foundation
+ID_6580,FEMALE,78.1,73.6,62.9,75.0,1479.0,University of Wollongong Dubai,Foundation
+ID_6965,female,97.6,53.4,68.9,76.9,1340.0,Murdoch,Year 13
+ID_5301,FEMALE,86.8,68.7,80.9,77.0,1483.0,Heriot-Watt,Year 13
+ID_8583,FEMALE,72.5,52.8,78.6,81.7,928.0,AUD,Foundation
+ID_1676,Male,100.2,90.8,89.6,60.0,1419.0,KU,Year 13
+ID_7474,Male,71.9,76.4,64.5,94.4,1810.0,Zayed Uni,Foundation
+ID_5930,M,117.3,42.5,60.9,79.1,1270.0,University of Wollongong Dubai,Foundation
+ID_2579,Male,77.6,103.5,67.3,57.7,1282.0,Khalifa Uni,Year 13
+ID_3095,Male,40.4,80.0,75.0,87.8,1696.0,Am. Uni Sharjah,Foundation
+ID_6906,female,,23.4,71.8,97.7,1490.0,KU,Foundation
+ID_1781,Male,57.0,64.4,98.9,82.5,1375.0,Zayed Uni,Foundation
+ID_1877,F,46.1,55.2,81.3,78.3,1049.0,Middlesex Dubai,Foundation
+ID_3569,F,,69.0,86.8,75.4,1270.0,Birmingham Uni,Foundation
+ID_2675,M,,108.4,60.8,55.8,1596.0,AUS,Foundation
+ID_7837,FEMALE,59.8,58.6,77.2,74.1,1470.0,Uni of Dubai,Foundation
+ID_7278,M,85.2,82.2,60.8,64.2,690.0,Khalifa Uni,Foundation
+ID_7380,FEMALE,57.9,84.1,83.7,77.6,1632.0,RIT Dubai,Year 13
+ID_9046,Male,103.1,83.6,70.8,86.4,2104.0,uowd,Year 13
+ID_9007,female,68.4,72.9,77.4,71.5,1431.0,Amity,Year 13
+ID_6963,F,80.6,94.2,79.5,89.5,1341.0,Manipal,Foundation
+ID_3894,female,81.2,70.6,71.0,68.8,1591.0,Khalifa Uni,Year 13
+ID_5303,M,86.9,76.4,68.0,59.5,1364.0,Amity,Foundation
+ID_6011,FEMALE,63.3,67.3,63.3,76.7,1327.0,Birmingham Uni,Year 13
+ID_1645,Male,64.6,98.6,55.9,93.7,1344.0,KU,Foundation
+ID_4883,Male,82.9,66.6,73.2,79.9,1442.0,RIT Dubai,Foundation
+ID_6005,Male,76.3,62.7,77.2,92.8,1142.0,uowd,Foundation
+ID_6851,female,78.9,53.2,73.4,70.5,1155.0,Am. Uni Sharjah,Foundation
+ID_4626,F,53.7,92.0,83.9,77.2,1461.0,Birmingham Uni,Year 13
+ID_6994,M,65.6,92.1,68.2,64.9,1253.0,KU,Year 13
+ID_1076,M,91.3,97.6,71.3,75.1,927.0,Zayed Uni,Foundation
+ID_2784,M,63.2,44.2,76.2,70.4,1821.0,Heriot-Watt,Year 13
+ID_8933,female,85.0,50.3,91.6,75.1,1401.0,CUD,Foundation
+ID_6520,Male,,90.4,76.5,77.5,1417.0,Birmingham Uni,Foundation
+ID_2807,Male,29.3,77.4,91.4,82.6,1478.0,BUiD,Foundation
+ID_2392,Male,47.2,12.4,67.3,77.6,850.0,Amity,Foundation
+ID_4911,Male,89.8,75.5,70.2,70.2,1421.0,Middlesex Dubai,Year 13
+ID_9112,female,70.2,74.6,86.5,76.8,1162.0,BUiD,Foundation
+ID_7775,female,60.9,84.7,67.9,59.5,1360.0,Zayed Uni,Foundation
+ID_8470,M,62.7,45.7,61.7,77.3,1375.0,BUiD,Year 13
+ID_8994,female,84.6,70.6,69.9,67.8,1254.0,Middlesex Dubai,Year 13
+ID_6191,M,62.8,72.2,61.9,101.2,1360.0,Am. Uni Sharjah,Foundation
+ID_7003,F,84.0,17.3,70.0,91.2,1009.0,KU,Foundation
+ID_2784,M,24.9,76.4,58.5,85.3,1231.0,RIT Dubai,Foundation
+ID_1096,F,46.4,67.2,68.7,83.9,686.0,University of Wollongong Dubai,Foundation
+ID_5908,M,57.1,42.5,73.4,83.2,1612.0,Zayed Uni,Foundation
+ID_9611,FEMALE,,65.9,80.6,100.3,1280.0,Middlesex Dubai,Year 13
+ID_4768,F,74.9,28.9,63.2,74.0,2028.0,Birmingham Uni,Year 13
+ID_4309,Male,69.4,102.4,79.2,81.3,1402.0,ADU,Year 13
+ID_5827,F,46.4,92.1,71.0,64.4,1187.0,uowd,Foundation
+ID_6457,female,41.3,94.1,74.2,55.9,1623.0,ADU,Year 13
+ID_8925,M,61.2,79.0,57.8,78.4,674.0,Birmingham Uni,Foundation
+ID_7716,Male,78.9,86.5,77.1,80.5,1127.0,Am. Uni Sharjah,Foundation
+ID_4823,FEMALE,73.5,85.7,67.4,75.1,835.0,Am. Uni Sharjah,Foundation
+ID_1753,M,56.5,80.2,72.1,77.3,1523.0,Zayed Uni,Foundation
+ID_6764,Male,74.4,25.1,84.4,67.2,1007.0,Birmingham Uni,Foundation
+ID_4644,FEMALE,51.7,24.6,74.0,70.8,1158.0,Amity,Foundation
+ID_6701,F,69.0,72.3,77.9,78.6,1595.0,University of Wollongong Dubai,Foundation
+ID_3862,F,53.3,49.4,77.0,72.5,1446.0,BUiD,Year 13
+ID_7401,FEMALE,92.6,77.1,73.6,92.5,1289.0,Khalifa Uni,Foundation
+ID_9920,female,64.9,89.1,59.7,65.3,1432.0,Zayed Uni,Foundation
+ID_1571,M,55.2,49.1,91.5,69.4,1254.0,Middlesex Dubai,Year 13
+ID_5091,female,51.4,52.4,82.3,75.6,1284.0,Birmingham Uni,Foundation
+ID_8239,female,70.7,30.1,76.0,79.3,1749.0,Manipal,Foundation
+ID_3523,female,54.3,68.1,71.6,77.8,1373.0,Heriot-Watt,Year 13
+ID_7718,female,88.3,43.5,84.4,70.9,1284.0,Birmingham Uni,Year 13
+ID_6165,Male,43.2,78.6,63.5,87.1,1450.0,UOWD,Foundation
+ID_1760,F,77.1,52.1,73.0,56.8,1615.0,Birmingham Uni,Foundation
+ID_4296,M,42.9,104.0,85.3,70.2,1407.0,ADU,Year 13
+ID_2031,FEMALE,69.3,33.4,75.2,61.9,1112.0,Amity,Foundation
+ID_2058,FEMALE,57.3,73.1,82.2,80.7,1319.0,Am. Uni Sharjah,Year 13
+ID_2932,F,78.9,78.6,85.4,83.3,1865.0,Zayed Uni,Year 13
+ID_6557,F,84.7,54.5,75.3,69.9,1456.0,UOWD,Year 13
+ID_8214,M,43.9,54.1,79.0,68.7,1275.0,Murdoch,Foundation
+ID_5045,F,76.6,17.6,95.4,81.5,1206.0,Khalifa Uni,Year 13
+ID_9946,female,72.4,68.5,70.9,70.6,1544.0,BUiD,Year 13
+ID_5182,FEMALE,67.8,75.3,83.2,81.9,1267.0,Khalifa Uni,Year 13
+ID_6545,Male,82.6,37.8,78.2,76.0,1591.0,Middlesex Dubai,Year 13
+ID_9712,F,77.7,74.7,85.7,67.4,1487.0,University of Wollongong Dubai,Foundation
+ID_2109,Male,,81.9,85.8,72.5,1307.0,University of Wollongong Dubai,Foundation
+ID_4517,FEMALE,97.7,43.8,50.0,80.4,1552.0,Amity,Year 13
+ID_5686,Male,73.9,26.0,74.3,80.8,852.0,Manipal,Foundation
+ID_6444,M,65.0,90.1,84.5,67.2,1117.0,BUiD,Year 13
+ID_8254,Male,,48.1,85.0,81.2,1368.0,UOWD,Foundation
+ID_2997,M,84.5,69.5,69.4,71.4,1574.0,Middlesex Dubai,Year 13
+ID_7577,F,87.6,59.5,78.1,59.1,1347.0,RIT Dubai,Foundation
+ID_4402,F,87.7,47.4,76.0,83.8,1774.0,KU,Foundation
+ID_9260,M,62.6,55.0,76.2,70.5,1424.0,Birmingham Uni,Foundation
+ID_7388,M,61.1,41.9,61.7,59.4,1566.0,Manipal,Foundation
+ID_8581,M,87.8,102.0,64.4,85.6,1183.0,BUiD,Year 13
+ID_7280,Male,64.9,82.0,79.2,79.3,1497.0,Middlesex Dubai,Foundation
+ID_8736,FEMALE,74.8,90.7,82.1,89.8,1559.0,RIT Dubai,Year 13
+ID_7734,Male,76.7,37.1,85.5,63.7,1471.0,University of Wollongong Dubai,Foundation
+ID_9337,FEMALE,57.3,76.1,83.6,77.9,1285.0,AUS,Year 13
+ID_1409,F,64.4,82.6,75.0,82.7,1161.0,Zayed Uni,Foundation
+ID_2987,Male,61.2,55.8,89.7,84.5,1273.0,uowd,Foundation
+ID_7511,M,42.1,45.8,61.5,59.0,1503.0,uowd,Foundation
+ID_5451,FEMALE,66.8,72.6,77.9,69.1,1388.0,AUD,Foundation
+ID_3957,FEMALE,77.3,41.3,85.6,70.9,1166.0,uowd,Foundation
+ID_6534,FEMALE,67.3,46.7,63.6,84.5,1737.0,University of Wollongong Dubai,Foundation
+ID_1858,F,51.1,88.6,86.4,61.3,1591.0,Murdoch,Year 13
+ID_7917,FEMALE,69.2,54.0,87.2,81.1,1673.0,KU,Foundation
+ID_4335,F,88.0,79.8,68.6,80.6,1324.0,Heriot-Watt,Foundation
+ID_4001,Male,66.7,80.3,57.8,54.8,1667.0,Amity,Year 13
+ID_7869,FEMALE,58.4,72.4,80.8,76.8,1386.0,CUD,Year 13
+ID_8784,Male,76.2,60.4,65.4,88.5,1762.0,uowd,Year 13
+ID_6157,FEMALE,48.6,54.2,81.6,65.2,1830.0,Heriot-Watt,Year 13
+ID_1492,female,,69.4,72.6,83.2,1228.0,University of Wollongong Dubai,Foundation
+ID_7403,Male,57.3,94.0,75.1,70.8,1325.0,AUS,Year 13
+ID_4087,M,82.1,53.3,72.5,70.0,1407.0,Am. Uni Sharjah,Foundation
+ID_1015,female,71.6,53.7,83.3,80.5,1154.0,uowd,Foundation
+ID_3298,female,69.9,80.7,92.8,72.5,1208.0,Uni of Dubai,Foundation
+ID_2637,FEMALE,78.2,52.7,77.0,84.5,857.0,Manipal,Foundation
+ID_8157,Male,69.9,68.2,88.7,74.2,1632.0,ADU,Year 13
+ID_2499,F,73.4,97.7,88.1,64.9,1337.0,Murdoch,Year 13
+ID_9314,female,64.8,74.8,66.2,91.8,1087.0,RIT Dubai,Foundation
+ID_5647,F,70.3,93.8,69.9,78.7,1323.0,ADU,Year 13
+ID_5517,Male,,8.2,91.5,71.0,1817.0,Murdoch,Foundation
+ID_3572,FEMALE,63.8,72.1,87.6,70.0,1217.0,Middlesex Dubai,Year 13
+ID_7515,FEMALE,86.4,73.5,81.0,73.3,1251.0,Khalifa Uni,Year 13
+ID_8324,F,99.2,75.5,62.8,53.8,692.0,UOWD,Foundation
+ID_3237,FEMALE,82.2,67.6,92.5,73.3,1342.0,Uni of Dubai,Year 13
+ID_6633,F,109.6,32.7,72.7,75.0,1557.0,CUD,Foundation
+ID_2700,female,70.7,77.5,64.3,79.5,1200.0,AUD,Year 13
+ID_9806,female,66.3,94.6,72.2,71.2,1282.0,RIT Dubai,Year 13
+ID_7465,FEMALE,80.8,61.8,80.6,46.5,1091.0,Uni of Dubai,Foundation
+ID_7136,female,84.4,74.6,64.4,87.9,1159.0,KU,Year 13
+ID_7950,F,80.4,87.1,63.3,68.5,1624.0,AUD,Foundation
+ID_1424,FEMALE,87.0,49.1,65.5,60.7,1279.0,CUD,Year 13
+ID_8608,female,68.8,69.9,72.1,81.3,1508.0,uowd,Foundation
+ID_9971,F,62.4,67.5,70.3,66.1,1039.0,ADU,Foundation
+ID_4854,female,80.0,76.6,73.8,85.1,1377.0,Khalifa Uni,Year 13
+ID_4360,Male,93.3,52.8,80.9,82.9,1489.0,uowd,Foundation
+ID_6062,F,,64.2,76.3,63.9,1868.0,Khalifa Uni,Foundation
+ID_9557,M,,79.5,76.1,90.1,1529.0,Uni of Dubai,Foundation
+ID_5331,FEMALE,70.4,58.9,67.1,78.0,1409.0,Heriot-Watt,Year 13
+ID_9242,FEMALE,100.0,41.2,74.5,65.4,1518.0,KU,Year 13
+ID_3821,M,74.4,84.2,75.2,84.7,1448.0,RIT Dubai,Year 13
+ID_5123,FEMALE,60.2,75.4,80.0,78.0,1504.0,Birmingham Uni,Year 13
+ID_2838,Male,94.1,59.3,95.0,102.3,1359.0,Birmingham Uni,Year 13
+ID_3114,female,57.6,60.3,70.9,71.6,1474.0,KU,Foundation
+ID_4692,female,47.5,90.6,81.6,62.8,1595.0,RIT Dubai,Year 13
+ID_9288,FEMALE,55.5,45.1,77.5,63.8,1337.0,CUD,Year 13
+ID_9542,Male,85.4,80.9,88.6,78.3,1406.0,Amity,Foundation
+ID_5542,M,81.1,18.6,82.8,77.7,1701.0,Murdoch,Year 13
+ID_3163,FEMALE,53.6,1.5,71.6,92.0,1375.0,Am. Uni Sharjah,Foundation
+ID_6775,FEMALE,38.6,79.6,68.5,52.9,1357.0,BUiD,Foundation
+ID_9390,F,66.0,57.0,66.2,71.8,927.0,KU,Foundation
+ID_5889,F,,74.7,55.5,53.4,1585.0,Birmingham Uni,Foundation
+ID_3100,female,77.6,63.9,66.4,68.3,1796.0,Birmingham Uni,Foundation
+ID_6657,Male,66.1,93.5,70.8,87.1,921.0,KU,Foundation
+ID_6867,FEMALE,79.9,48.9,71.4,83.0,1315.0,Am. Uni Sharjah,Year 13
+ID_3218,M,83.0,77.6,72.2,76.1,1354.0,UOWD,Year 13
+ID_4455,F,57.3,64.7,81.8,75.6,973.0,Uni of Dubai,Foundation
+ID_2305,F,75.0,82.4,63.1,85.1,1555.0,uowd,Foundation
+ID_2413,F,41.3,66.9,66.7,60.6,1462.0,KU,Foundation
+ID_7871,M,94.0,78.7,73.6,92.0,1533.0,University of Wollongong Dubai,Year 13
+ID_3045,F,37.3,54.4,78.0,82.7,1412.0,ADU,Foundation
+ID_4913,F,50.8,75.6,76.5,92.2,1986.0,RIT Dubai,Foundation
+ID_3314,FEMALE,83.1,84.0,72.2,81.2,1138.0,KU,Year 13
+ID_6889,FEMALE,57.6,63.5,58.2,80.3,1391.0,Middlesex Dubai,Foundation
+ID_7411,FEMALE,72.2,54.6,75.4,93.1,2049.0,RIT Dubai,Foundation
+ID_7866,FEMALE,87.1,52.8,64.9,61.9,1508.0,AUS,Foundation
+ID_3185,Male,59.8,84.4,79.5,68.4,1702.0,Manipal,Year 13
+ID_5666,female,79.1,48.0,79.8,85.6,1281.0,Middlesex Dubai,Year 13
+ID_4354,F,58.4,97.2,68.1,81.1,1147.0,uowd,Year 13
+ID_7020,Male,44.7,43.7,74.9,57.7,1120.0,Middlesex Dubai,Foundation
+ID_8933,F,80.1,77.1,61.2,60.6,1495.0,Khalifa Uni,Foundation
+ID_7045,female,63.3,55.1,63.5,81.2,1194.0,Birmingham Uni,Foundation
+ID_5585,FEMALE,62.2,91.5,76.1,88.3,1295.0,Am. Uni Sharjah,Foundation
+ID_8540,female,53.0,92.0,87.9,98.0,1476.0,Murdoch,Year 13
+ID_1312,M,78.8,93.3,81.5,88.6,1381.0,UOWD,Year 13
+ID_6254,F,57.1,86.9,53.1,96.4,1681.0,UOWD,Year 13
+ID_5390,F,63.1,75.9,73.2,80.3,1497.0,Am. Uni Sharjah,Foundation
+ID_7303,Male,70.0,84.7,61.0,85.0,1349.0,Manipal,Foundation
+ID_5694,Male,71.2,50.4,62.4,87.4,1656.0,Zayed Uni,Foundation
+ID_5017,Male,63.9,69.8,87.5,87.5,1642.0,Uni of Dubai,Year 13
+ID_1676,female,74.9,37.2,79.8,77.2,1116.0,Uni of Dubai,Year 13
+ID_2664,FEMALE,67.7,62.5,78.1,70.1,1341.0,Middlesex Dubai,Year 13
+ID_7348,M,55.9,87.4,67.7,44.0,1262.0,uowd,Year 13
+ID_2738,F,89.6,35.6,61.3,94.5,1429.0,Am. Uni Sharjah,Foundation
+ID_8676,FEMALE,75.8,20.6,65.7,66.5,1436.0,KU,Foundation
+ID_8003,Male,74.2,60.6,75.7,80.3,1998.0,KU,Foundation
+ID_7185,Male,38.5,78.7,66.2,49.1,1478.0,CUD,Foundation
+ID_8328,female,96.7,81.2,66.5,72.9,1287.0,Amity,Foundation
+ID_3219,M,43.1,58.4,88.4,93.5,1322.0,CUD,Year 13
+ID_6024,F,88.4,97.0,82.3,78.1,1341.0,Am. Uni Sharjah,Year 13
+ID_7835,M,71.1,54.8,75.4,83.9,1567.0,KU,Foundation
+ID_2206,Male,69.1,63.8,67.6,75.8,1000.0,RIT Dubai,Foundation
+ID_4931,FEMALE,104.2,40.3,75.1,62.9,1523.0,Khalifa Uni,Foundation
+ID_9727,female,84.8,79.6,80.4,86.6,1999.0,AUS,Year 13
+ID_2937,M,102.8,51.3,66.3,89.6,1190.0,uowd,Year 13
+ID_8191,FEMALE,72.0,81.6,85.7,53.1,1394.0,Khalifa Uni,Foundation
+ID_8689,Male,86.8,61.3,72.8,81.4,1319.0,Uni of Dubai,Foundation
+ID_8260,female,81.1,79.2,75.2,76.3,1294.0,Uni of Dubai,Foundation
+ID_8390,F,65.4,85.9,56.0,63.0,1436.0,Zayed Uni,Foundation
+ID_9336,FEMALE,73.4,64.6,77.9,63.9,1345.0,AUD,Foundation
+ID_2446,Male,79.1,33.9,90.4,79.0,1836.0,Zayed Uni,Year 13
+ID_5304,M,100.8,66.7,64.3,89.5,1981.0,Manipal,Year 13
+ID_1725,female,69.7,75.1,87.0,80.2,1557.0,Birmingham Uni,Year 13
+ID_7701,Male,65.8,37.2,92.0,76.6,1314.0,UOWD,Year 13
+ID_7830,FEMALE,83.3,42.6,83.1,70.8,1414.0,Zayed Uni,Foundation
+ID_1025,female,59.9,85.6,80.0,81.0,1420.0,Birmingham Uni,Foundation
+ID_2799,M,76.0,69.0,75.8,65.7,1462.0,AUS,Foundation
+ID_2092,M,55.1,64.2,61.0,76.4,1530.0,KU,Year 13
+ID_5893,FEMALE,95.1,53.2,67.7,58.1,1319.0,CUD,Foundation
+ID_4158,M,,78.8,68.2,74.7,1396.0,Heriot-Watt,Foundation
+ID_7375,FEMALE,72.2,67.0,71.6,79.7,1530.0,UOWD,Year 13
+ID_9693,F,76.4,33.4,75.5,83.8,1582.0,Amity,Foundation
+ID_1906,F,59.6,51.8,70.8,90.7,1448.0,University of Wollongong Dubai,Year 13
+ID_7235,F,88.0,62.5,72.9,87.0,1481.0,Khalifa Uni,Year 13
+ID_5029,FEMALE,104.1,48.0,74.6,56.9,1430.0,Birmingham Uni,Foundation
+ID_7281,female,57.4,61.3,63.7,81.3,881.0,AUD,Foundation
+ID_6068,M,68.6,65.3,66.2,94.8,1152.0,RIT Dubai,Foundation
+ID_3913,M,61.7,56.7,65.0,84.6,1850.0,Uni of Dubai,Year 13
+ID_2513,Male,50.5,27.9,79.6,80.7,1203.0,Heriot-Watt,Foundation
+ID_6177,M,49.1,57.6,77.1,67.0,1833.0,Murdoch,Year 13
+ID_3736,Male,60.5,64.2,72.7,95.3,1177.0,Murdoch,Foundation
+ID_6730,Male,47.2,48.1,84.3,74.0,1272.0,ADU,Year 13
+ID_5207,FEMALE,72.2,80.4,57.9,92.8,1426.0,Zayed Uni,Year 13
+ID_5760,FEMALE,90.8,67.1,64.2,75.9,1500.0,CUD,Year 13
+ID_7354,Male,75.4,75.1,66.6,85.7,1408.0,Manipal,Year 13
+ID_7075,Male,35.1,60.5,65.7,113.2,1132.0,Am. Uni Sharjah,Year 13
+ID_8466,FEMALE,63.6,73.3,80.3,100.0,1216.0,BUiD,Foundation
+ID_8860,Male,95.0,71.2,95.7,61.2,1701.0,Manipal,Year 13
+ID_3464,FEMALE,72.7,81.8,90.8,74.3,1393.0,UOWD,Year 13
+ID_9900,FEMALE,91.8,53.0,59.4,87.8,1506.0,ADU,Year 13
+ID_7585,F,55.5,54.2,59.7,72.0,1196.0,University of Wollongong Dubai,Year 13
+ID_7684,F,64.0,32.5,95.2,93.0,1205.0,Birmingham Uni,Year 13
+ID_7610,female,74.1,73.3,68.4,83.5,1309.0,Heriot-Watt,Foundation
+ID_5570,Male,57.0,38.3,82.2,93.5,2047.0,uowd,Year 13
+ID_9382,F,52.0,79.0,86.1,64.9,1552.0,Manipal,Year 13
+ID_4918,M,38.8,52.2,81.6,90.3,1550.0,ADU,Foundation
+ID_3065,F,94.3,73.3,86.2,71.7,1550.0,ADU,Foundation
+ID_3654,F,44.1,35.1,65.8,93.9,1358.0,Amity,Foundation
+ID_3499,M,71.2,80.2,82.6,66.2,1471.0,Middlesex Dubai,Year 13
+ID_1571,F,73.9,62.4,66.5,68.9,1155.0,Manipal,Foundation
+ID_1863,F,65.9,89.7,72.4,70.1,1355.0,Amity,Year 13
+ID_2714,female,90.6,61.1,80.4,80.7,1100.0,KU,Year 13
+ID_6784,M,86.3,69.2,58.9,69.6,946.0,CUD,Foundation
+ID_6447,Male,78.1,70.1,86.9,68.7,1276.0,Am. Uni Sharjah,Foundation
+ID_4111,FEMALE,62.3,49.0,79.4,74.3,1214.0,BUiD,Year 13
+ID_3637,FEMALE,65.0,43.9,79.3,57.6,1260.0,KU,Year 13
+ID_9776,FEMALE,65.1,98.5,73.4,72.2,1555.0,Heriot-Watt,Foundation
+ID_1066,F,16.3,77.3,78.8,80.0,1691.0,University of Wollongong Dubai,Year 13
+ID_6560,female,61.9,82.9,71.5,54.5,1243.0,uowd,Year 13
+ID_6064,FEMALE,65.6,61.2,60.0,94.4,1324.0,ADU,Year 13
+ID_9931,Male,62.7,96.8,85.7,69.4,1372.0,University of Wollongong Dubai,Foundation
+ID_1218,FEMALE,91.6,73.6,82.4,108.9,838.0,UOWD,Foundation
+ID_5772,M,79.1,53.9,81.6,65.1,1572.0,uowd,Year 13
+ID_4307,F,67.7,81.8,75.2,94.2,1022.0,AUS,Foundation
+ID_8808,female,50.0,21.4,85.9,60.3,1514.0,Zayed Uni,Foundation
+ID_7161,F,66.2,27.1,78.1,63.7,1301.0,RIT Dubai,Foundation
+ID_3887,Male,78.0,66.8,77.1,69.3,1627.0,Middlesex Dubai,Foundation
+ID_4593,Male,63.9,54.5,69.8,68.8,1619.0,CUD,Foundation
+ID_7857,F,59.4,77.9,81.8,77.4,1155.0,BUiD,Year 13
+ID_5629,M,64.1,83.5,74.1,75.9,1564.0,Amity,Foundation
+ID_6796,M,84.5,64.6,60.4,72.9,1071.0,BUiD,Foundation
+ID_6597,F,81.9,78.8,68.9,77.3,1696.0,Murdoch,Foundation
+ID_1148,female,75.1,63.8,68.0,66.6,1296.0,Manipal,Year 13
+ID_2242,FEMALE,53.1,38.0,92.7,81.8,1048.0,Manipal,Foundation
+ID_3507,M,63.4,67.2,88.4,90.1,1047.0,RIT Dubai,Foundation
+ID_1767,Male,86.3,44.3,73.0,77.6,1565.0,Birmingham Uni,Year 13
+ID_2285,M,86.4,50.0,84.6,71.0,1497.0,CUD,Foundation
+ID_4583,F,,95.3,78.8,73.5,1275.0,Murdoch,Year 13
+ID_8017,FEMALE,67.5,97.7,81.2,52.4,1696.0,Birmingham Uni,Year 13
+ID_9462,M,85.5,17.3,82.5,79.6,1507.0,KU,Year 13
+ID_4682,F,59.3,57.3,89.1,63.5,1047.0,CUD,Foundation
+ID_4394,Male,67.9,62.4,68.5,51.7,1800.0,Heriot-Watt,Year 13
+ID_1825,female,80.5,75.7,82.4,78.7,1474.0,Middlesex Dubai,Year 13
+ID_9101,FEMALE,74.3,44.0,49.7,75.3,1365.0,Murdoch,Foundation
+ID_4742,Male,72.0,79.6,72.5,86.1,1295.0,uowd,Foundation
+ID_8998,F,71.7,75.1,81.3,63.1,1024.0,uowd,Foundation
+ID_3373,FEMALE,58.8,51.8,68.8,88.3,1405.0,Murdoch,Foundation
+ID_1259,FEMALE,49.2,61.4,73.9,93.5,1213.0,UOWD,Year 13
+ID_4576,female,89.7,69.2,79.6,93.6,1256.0,Zayed Uni,Year 13
+ID_5270,female,69.9,43.9,71.5,63.2,1638.0,Birmingham Uni,Year 13
+ID_6890,FEMALE,95.3,98.4,69.9,86.8,1825.0,Khalifa Uni,Year 13
+ID_2654,M,35.3,55.2,88.3,66.3,1502.0,UOWD,Year 13
+ID_6936,F,67.4,77.8,85.5,77.6,1593.0,Middlesex Dubai,Year 13
+ID_9541,FEMALE,70.7,44.1,74.7,70.5,1587.0,KU,Year 13
+ID_7228,M,70.5,78.8,70.5,82.0,1293.0,RIT Dubai,Foundation
+ID_5021,F,71.4,58.1,71.3,66.2,911.0,Zayed Uni,Foundation
+ID_1358,female,60.0,68.9,78.0,62.7,1610.0,Khalifa Uni,Year 13
+ID_6009,M,100.5,88.4,67.8,70.3,715.0,uowd,Foundation
+ID_2213,Male,87.8,95.8,77.2,84.0,1315.0,Amity,Foundation
+ID_5568,F,56.7,73.2,72.2,79.4,1515.0,Am. Uni Sharjah,Year 13
+ID_7235,Male,,62.9,79.9,74.1,1805.0,Uni of Dubai,Foundation
+ID_2425,Male,60.7,39.6,71.2,88.8,1409.0,Murdoch,Year 13
+ID_4960,female,79.9,100.3,75.9,65.4,1342.0,BUiD,Foundation
+ID_4329,female,84.6,61.6,71.7,82.7,1362.0,AUS,Foundation
+ID_3894,M,65.2,29.4,74.5,63.0,1553.0,University of Wollongong Dubai,Foundation
+ID_2332,Male,76.0,48.8,78.7,69.1,1616.0,Amity,Year 13
+ID_1339,Male,72.3,71.0,72.0,60.5,1733.0,Murdoch,Year 13
+ID_8193,female,78.7,80.7,69.4,44.0,1740.0,University of Wollongong Dubai,Year 13
+ID_5759,M,81.4,30.1,92.7,63.3,1668.0,uowd,Year 13
+ID_5263,FEMALE,85.2,62.4,86.3,67.5,1199.0,Am. Uni Sharjah,Year 13
+ID_1562,female,85.2,64.1,71.1,80.9,1462.0,UOWD,Foundation
+ID_7991,Male,69.8,65.1,60.2,72.1,1041.0,Amity,Foundation
+ID_6427,FEMALE,80.4,79.3,76.6,86.9,1410.0,Amity,Year 13
+ID_1106,M,34.2,52.2,103.2,62.2,1405.0,University of Wollongong Dubai,Year 13
+ID_2934,Male,72.7,91.9,73.5,84.1,1414.0,Amity,Foundation
+ID_9764,F,53.2,53.7,60.1,93.1,1276.0,Murdoch,Year 13
+ID_6824,FEMALE,51.0,61.6,63.2,78.4,1695.0,Zayed Uni,Year 13
+ID_3228,M,100.0,57.0,67.5,76.7,1553.0,Zayed Uni,Year 13
+ID_9353,F,,60.7,54.8,84.6,1988.0,Am. Uni Sharjah,Foundation
+ID_5314,M,61.7,49.5,94.0,79.0,1141.0,Amity,Foundation
+ID_9854,FEMALE,82.9,73.0,78.6,81.8,1346.0,RIT Dubai,Foundation
+ID_2024,female,75.8,76.1,56.0,72.8,1831.0,Am. Uni Sharjah,Year 13
+ID_4607,Male,58.5,52.9,71.8,49.1,1058.0,Amity,Foundation
+ID_5311,FEMALE,53.4,62.1,75.4,90.3,1352.0,ADU,Foundation
+ID_4186,FEMALE,61.4,59.4,87.9,101.4,1089.0,BUiD,Foundation
+ID_3299,Male,77.8,29.6,78.7,73.4,1451.0,ADU,Year 13
+ID_1532,FEMALE,69.7,45.5,52.3,75.5,1174.0,University of Wollongong Dubai,Foundation
+ID_8410,female,75.1,76.4,71.7,71.8,1613.0,Khalifa Uni,Foundation
+ID_6455,FEMALE,70.4,75.3,69.1,75.8,1218.0,University of Wollongong Dubai,Year 13
+ID_4332,F,99.6,69.1,58.8,100.7,1359.0,BUiD,Year 13
+ID_1212,Male,80.5,48.3,60.9,82.4,854.0,Am. Uni Sharjah,Foundation
+ID_3408,F,74.1,74.1,96.0,76.3,1548.0,BUiD,Foundation
+ID_9744,FEMALE,68.4,103.8,71.7,57.6,1863.0,KU,Year 13
+ID_9951,F,66.1,59.3,73.9,115.2,1335.0,Manipal,Year 13
+ID_4797,female,77.7,52.0,78.8,86.3,1878.0,Am. Uni Sharjah,Year 13
+ID_8888,FEMALE,37.4,18.9,71.4,110.4,1342.0,Murdoch,Foundation
+ID_1909,Male,86.5,93.8,65.5,81.1,1413.0,Heriot-Watt,Foundation
+ID_8287,F,57.7,48.7,76.8,63.0,1334.0,Zayed Uni,Foundation
+ID_3951,female,70.5,70.4,68.5,74.6,1865.0,Heriot-Watt,Year 13
+ID_4843,female,,68.2,88.6,75.2,1370.0,Zayed Uni,Foundation
+ID_4059,female,53.5,81.4,81.7,99.2,970.0,AUS,Foundation
+ID_1765,M,52.0,72.2,63.0,60.1,869.0,Manipal,Foundation
+ID_6158,Male,80.8,54.1,56.3,83.0,1177.0,Murdoch,Foundation
+ID_7116,female,79.4,37.4,57.0,51.3,1270.0,RIT Dubai,Foundation
+ID_9914,female,65.5,52.4,62.6,89.5,1056.0,Murdoch,Foundation
+ID_4574,FEMALE,67.3,51.9,68.0,70.2,1303.0,Uni of Dubai,Year 13
+ID_3475,FEMALE,60.5,69.2,61.4,92.7,1522.0,Murdoch,Foundation
+ID_3953,FEMALE,96.5,48.7,78.2,49.2,1748.0,RIT Dubai,Year 13
+ID_1959,F,80.1,35.0,61.1,72.2,1364.0,UOWD,Foundation
+ID_2390,FEMALE,44.7,60.4,82.2,61.2,1020.0,RIT Dubai,Foundation
+ID_8889,FEMALE,76.8,85.1,85.2,71.6,776.0,UOWD,Foundation
+ID_3372,M,74.7,62.0,85.6,67.3,1303.0,CUD,Foundation
+ID_8742,FEMALE,67.4,7.0,67.2,99.3,1425.0,ADU,Year 13
+ID_2046,F,77.0,60.3,66.1,87.6,932.0,uowd,Foundation
+ID_9945,M,79.7,43.0,76.6,65.2,1371.0,Khalifa Uni,Year 13
+ID_5104,FEMALE,79.1,78.4,76.7,92.2,1501.0,Khalifa Uni,Year 13
+ID_4046,M,55.5,49.1,73.4,71.6,2123.0,Birmingham Uni,Year 13
+ID_9122,female,74.2,89.5,59.2,92.9,1958.0,University of Wollongong Dubai,Foundation
+ID_3209,FEMALE,50.2,80.4,72.1,73.2,1710.0,KU,Year 13
+ID_6716,F,70.0,53.0,86.7,58.0,1026.0,Birmingham Uni,Foundation
+ID_2179,Male,72.0,65.5,82.0,71.7,1464.0,KU,Year 13
+ID_6455,FEMALE,71.8,56.1,95.5,68.2,1926.0,Murdoch,Year 13
+ID_7050,M,70.5,37.5,81.0,87.5,1208.0,KU,Year 13
+ID_7249,F,74.9,84.5,75.0,86.2,862.0,Uni of Dubai,Foundation
+ID_3278,female,,52.2,77.9,63.6,1513.0,Middlesex Dubai,Foundation
+ID_6477,M,73.5,45.0,91.2,101.9,1498.0,Khalifa Uni,Foundation
+ID_8570,Male,93.9,53.6,80.0,87.0,1635.0,Heriot-Watt,Foundation
+ID_4520,M,51.7,82.3,76.7,91.8,1096.0,BUiD,Foundation
+ID_9346,M,77.0,41.6,68.4,65.7,1041.0,BUiD,Foundation
+ID_1364,M,61.3,87.8,66.6,77.3,1512.0,BUiD,Foundation
+ID_7231,M,73.0,86.9,76.4,101.5,1598.0,RIT Dubai,Year 13
+ID_1157,F,74.6,70.0,79.0,107.9,1331.0,AUD,Foundation
+ID_9483,FEMALE,65.2,67.3,69.5,79.8,1389.0,Khalifa Uni,Year 13
+ID_4555,FEMALE,63.8,32.3,70.8,84.0,1177.0,Am. Uni Sharjah,Foundation
+ID_7898,female,48.6,66.4,67.9,79.8,1547.0,RIT Dubai,Foundation
+ID_2550,Male,80.9,84.1,87.2,104.4,1311.0,Amity,Foundation
+ID_5389,M,71.6,56.7,52.6,78.1,1615.0,Murdoch,Year 13
+ID_8735,F,49.8,57.7,83.5,82.1,1775.0,RIT Dubai,Year 13
+ID_8974,Male,71.1,85.5,90.4,83.8,1980.0,Heriot-Watt,Year 13
+ID_8883,FEMALE,79.1,68.6,72.3,68.0,1674.0,Khalifa Uni,Foundation
+ID_2168,FEMALE,83.0,55.1,71.6,84.4,1566.0,Manipal,Year 13
+ID_9783,FEMALE,72.1,99.1,67.3,62.7,1176.0,Uni of Dubai,Foundation
+ID_2232,female,,91.7,75.6,72.3,1456.0,Uni of Dubai,Foundation
+ID_6533,M,93.7,63.1,71.7,74.3,1013.0,Manipal,Foundation
+ID_1199,Male,74.0,64.2,79.0,80.9,1576.0,BUiD,Year 13
+ID_3850,M,68.2,42.1,75.9,80.8,1220.0,Middlesex Dubai,Foundation
+ID_6973,FEMALE,61.2,69.6,80.1,69.3,1314.0,Heriot-Watt,Foundation
+ID_4785,Male,41.9,75.7,67.7,90.5,1084.0,Uni of Dubai,Foundation
+ID_1819,M,77.2,47.5,59.7,72.6,1188.0,Zayed Uni,Year 13
+ID_3262,F,83.2,62.7,76.5,68.9,1453.0,Heriot-Watt,Foundation
+ID_2502,FEMALE,93.0,49.4,60.6,87.9,1194.0,CUD,Foundation
+ID_3186,M,66.2,102.4,75.3,68.4,1113.0,uowd,Foundation
+ID_2518,M,86.3,53.6,46.7,91.9,865.0,Uni of Dubai,Foundation
+ID_9184,female,67.8,66.3,71.3,60.3,1464.0,Amity,Year 13
+ID_1955,female,98.4,47.3,70.1,70.6,1221.0,CUD,Year 13
+ID_4102,Male,64.8,79.5,79.5,76.1,1170.0,Khalifa Uni,Foundation
+ID_4054,Male,71.4,33.7,55.6,88.7,1071.0,CUD,Foundation
+ID_3761,F,43.4,87.7,73.5,76.1,1510.0,AUD,Year 13
+ID_1868,F,56.7,67.6,61.6,73.3,1960.0,Birmingham Uni,Year 13
+ID_3899,M,55.9,84.3,71.9,57.2,1888.0,AUS,Foundation
+ID_5688,Male,69.1,50.0,86.2,82.6,1140.0,Middlesex Dubai,Year 13
+ID_8407,FEMALE,,86.7,64.2,69.9,1639.0,Am. Uni Sharjah,Foundation
+ID_6398,F,29.3,62.0,69.9,73.5,1031.0,uowd,Foundation
+ID_7992,M,85.3,54.0,64.0,105.5,1867.0,uowd,Foundation
+ID_6853,FEMALE,52.6,96.6,96.6,55.7,1274.0,Zayed Uni,Foundation
+ID_8724,female,78.4,47.1,58.6,78.1,1101.0,Birmingham Uni,Year 13
+ID_7555,FEMALE,66.0,92.4,79.7,87.5,975.0,Heriot-Watt,Foundation
+ID_5209,FEMALE,69.0,36.5,78.9,88.0,1242.0,uowd,Foundation
+ID_1277,female,74.4,57.7,85.4,77.7,1655.0,Middlesex Dubai,Foundation
+ID_7805,FEMALE,,49.9,78.6,75.4,1165.0,Zayed Uni,Foundation
+ID_7049,Male,90.0,83.6,81.6,72.6,1493.0,Heriot-Watt,Year 13
+ID_4328,female,77.4,75.7,81.4,57.7,1652.0,Birmingham Uni,Year 13
+ID_6954,FEMALE,61.5,57.8,57.0,91.1,843.0,Birmingham Uni,Foundation
+ID_4925,M,64.0,44.9,71.7,95.0,1593.0,KU,Foundation
+ID_5425,female,67.6,71.2,76.5,70.3,1909.0,AUS,Year 13
+ID_8720,Male,75.4,57.8,82.4,76.9,1130.0,Middlesex Dubai,Foundation
+ID_8608,female,64.0,66.7,74.2,72.5,1140.0,Birmingham Uni,Year 13
+ID_4637,F,76.3,40.8,75.6,79.4,1446.0,KU,Foundation
+ID_9580,female,83.8,85.4,81.7,65.7,1320.0,CUD,Year 13
+ID_9003,female,48.2,60.2,89.7,84.1,1509.0,ADU,Year 13
+ID_4303,M,52.1,78.6,67.8,73.8,1182.0,Murdoch,Foundation
+ID_6186,FEMALE,59.8,84.2,86.3,54.6,1645.0,KU,Foundation
+ID_8809,female,57.8,82.1,95.7,68.6,1573.0,Heriot-Watt,Foundation
+ID_8675,M,53.7,111.5,69.7,89.5,1373.0,Am. Uni Sharjah,Foundation
+ID_6542,Male,88.5,64.8,60.7,72.3,1699.0,KU,Foundation
+ID_6503,F,64.8,92.8,76.1,93.8,1060.0,CUD,Foundation
+ID_7398,FEMALE,63.4,59.2,72.2,72.1,1300.0,Middlesex Dubai,Foundation
+ID_2523,M,83.9,46.5,73.9,76.3,1359.0,Murdoch,Foundation
+ID_8613,FEMALE,70.5,66.5,58.5,65.6,1371.0,Khalifa Uni,Foundation
+ID_6514,FEMALE,46.2,37.9,82.3,53.1,1341.0,Amity,Foundation
+ID_5235,Male,102.2,34.1,90.7,71.1,1627.0,uowd,Foundation
+ID_7080,M,77.6,92.8,92.9,75.0,825.0,Zayed Uni,Foundation
+ID_2222,female,57.7,56.5,78.1,69.9,1499.0,Murdoch,Year 13
+ID_9664,female,72.1,61.6,86.0,82.3,1416.0,uowd,Year 13
+ID_6801,female,83.6,66.4,72.4,62.0,1714.0,Uni of Dubai,Foundation
+ID_3883,FEMALE,75.1,54.7,73.7,83.3,1717.0,Zayed Uni,Year 13
+ID_2823,FEMALE,69.6,36.6,75.0,96.8,1157.0,ADU,Year 13
+ID_4489,FEMALE,95.9,46.9,83.1,79.4,1079.0,BUiD,Foundation
+ID_1496,Male,83.2,36.3,62.1,89.1,1584.0,AUD,Year 13
+ID_6824,M,59.4,63.4,78.1,72.7,1445.0,Amity,Year 13
+ID_7288,M,76.6,63.0,68.5,73.6,1642.0,Zayed Uni,Foundation
+ID_8361,Male,90.4,74.8,72.7,64.4,1195.0,ADU,Foundation
+ID_1561,Male,89.5,67.8,80.7,67.7,1046.0,Birmingham Uni,Foundation
+ID_6104,female,45.0,52.4,48.8,60.2,1065.0,University of Wollongong Dubai,Foundation
+ID_8986,M,72.0,58.5,80.2,72.0,1384.0,UOWD,Year 13
+ID_1259,Male,91.2,37.3,84.0,87.4,1175.0,AUD,Year 13
+ID_8315,Male,58.5,55.8,75.3,86.8,1626.0,AUD,Year 13
+ID_1852,Male,65.1,43.0,68.8,59.9,1149.0,Middlesex Dubai,Foundation
+ID_7441,FEMALE,52.3,84.9,81.6,76.3,1778.0,Murdoch,Year 13
+ID_1676,FEMALE,53.0,48.0,70.2,84.4,1234.0,ADU,Foundation
+ID_6408,female,70.6,58.7,103.6,81.6,1116.0,AUS,Foundation
+ID_7084,FEMALE,54.5,60.1,77.9,86.3,893.0,Amity,Foundation
+ID_7033,Male,56.7,58.3,60.7,79.5,1752.0,Am. Uni Sharjah,Year 13
+ID_9792,M,66.6,67.2,65.9,89.5,1566.0,CUD,Foundation
+ID_7915,Male,54.6,72.6,57.6,66.9,1124.0,CUD,Year 13
+ID_7579,F,79.9,86.3,72.4,93.2,1523.0,CUD,Foundation
+ID_2012,FEMALE,51.7,93.5,64.6,93.5,1548.0,Heriot-Watt,Foundation
+ID_3788,Male,108.1,10.9,78.4,73.8,1381.0,Amity,Foundation
+ID_3603,F,64.5,81.1,73.0,92.0,1525.0,Uni of Dubai,Year 13
+ID_6448,FEMALE,70.2,76.6,79.6,96.5,1714.0,AUS,Year 13
+ID_9602,FEMALE,59.7,81.4,69.7,72.1,1174.0,ADU,Year 13
+ID_2187,M,43.0,30.0,73.2,79.0,1308.0,UOWD,Foundation
+ID_4488,F,46.3,48.6,81.2,83.1,1125.0,AUS,Foundation
+ID_3723,female,69.8,59.4,61.0,76.7,1678.0,CUD,Year 13
+ID_7713,FEMALE,80.3,93.0,89.2,73.9,1574.0,Am. Uni Sharjah,Year 13
+ID_7392,F,69.1,94.5,73.1,80.6,1722.0,BUiD,Year 13
+ID_9503,M,68.0,38.6,82.3,85.1,1391.0,University of Wollongong Dubai,Year 13
+ID_2355,M,62.3,68.2,86.6,70.7,1148.0,Khalifa Uni,Year 13
+ID_1823,M,73.8,29.1,78.7,73.1,1309.0,UOWD,Foundation
+ID_4723,M,62.5,96.9,76.0,95.2,1335.0,ADU,Foundation
+ID_9826,Male,56.8,70.4,54.7,63.1,1529.0,University of Wollongong Dubai,Foundation
+ID_5803,FEMALE,93.3,54.9,68.9,56.8,1835.0,Heriot-Watt,Year 13
+ID_4726,M,50.7,66.2,70.5,85.8,1512.0,CUD,Year 13
+ID_3857,M,69.9,48.8,76.9,68.6,1451.0,University of Wollongong Dubai,Foundation
+ID_5157,F,80.2,84.3,86.3,76.1,1400.0,RIT Dubai,Year 13
+ID_7764,Male,79.0,86.8,98.7,60.7,1344.0,Heriot-Watt,Foundation
+ID_3569,female,34.3,68.9,64.1,76.3,1779.0,AUD,Year 13
+ID_2814,Male,76.2,33.6,79.6,73.3,1209.0,Middlesex Dubai,Year 13
+ID_3147,female,58.6,57.1,68.3,79.6,1321.0,Khalifa Uni,Year 13
+ID_6979,FEMALE,,43.0,93.0,67.8,1233.0,Khalifa Uni,Foundation
+ID_5936,female,55.3,101.0,81.2,99.7,1565.0,uowd,Year 13
+ID_6382,F,86.3,54.1,93.2,62.8,1784.0,Birmingham Uni,Year 13
+ID_9680,F,68.3,71.0,72.2,83.8,1298.0,University of Wollongong Dubai,Foundation
+ID_7189,M,46.2,50.6,65.8,63.0,1346.0,UOWD,Foundation
+ID_2490,female,75.8,79.1,88.2,93.4,1436.0,University of Wollongong Dubai,Year 13
+ID_9040,female,68.7,83.7,82.8,78.4,1176.0,CUD,Year 13
+ID_5808,M,60.2,54.0,74.0,64.7,1087.0,Zayed Uni,Foundation
+ID_2541,FEMALE,73.2,29.9,68.0,83.7,1224.0,uowd,Year 13
+ID_5270,Male,66.4,74.3,88.1,89.2,1120.0,AUS,Year 13
+ID_4782,F,87.5,88.8,73.5,51.4,1050.0,RIT Dubai,Foundation
+ID_4887,F,66.3,41.7,74.5,73.3,1571.0,UOWD,Year 13
+ID_6109,female,86.0,93.7,77.8,54.4,1515.0,RIT Dubai,Year 13
+ID_9547,M,85.7,63.4,85.3,85.1,1134.0,CUD,Year 13
+ID_2690,Male,94.9,55.0,87.0,68.3,1344.0,KU,Foundation
+ID_4578,F,54.3,100.7,70.3,80.3,1751.0,Zayed Uni,Foundation
+ID_4465,FEMALE,77.3,81.2,78.3,113.2,1143.0,CUD,Foundation
+ID_8829,F,44.3,57.1,59.9,68.4,1565.0,AUD,Foundation
+ID_5442,FEMALE,63.7,45.9,80.2,71.9,1355.0,uowd,Year 13
+ID_6559,FEMALE,83.4,49.7,73.0,59.9,1668.0,University of Wollongong Dubai,Year 13
+ID_1847,M,68.7,106.3,76.6,87.8,1351.0,Khalifa Uni,Year 13
+ID_2881,FEMALE,74.5,98.3,77.9,52.2,1162.0,University of Wollongong Dubai,Foundation
+ID_5139,FEMALE,97.2,64.4,75.3,51.4,1108.0,Murdoch,Year 13
+ID_7734,F,53.5,81.4,72.8,89.9,1338.0,Middlesex Dubai,Foundation
+ID_9554,F,64.5,89.0,75.1,78.7,1334.0,Murdoch,Foundation
+ID_6516,FEMALE,80.3,56.6,86.2,92.4,995.0,UOWD,Foundation
+ID_5427,Male,59.5,61.0,89.0,96.5,1793.0,Amity,Foundation
+ID_7222,M,65.8,89.6,77.6,57.5,882.0,Murdoch,Foundation
+ID_1621,female,43.6,46.8,82.0,73.5,1074.0,CUD,Foundation
+ID_4481,F,76.6,36.3,91.9,50.1,1283.0,Heriot-Watt,Foundation
+ID_8373,female,63.9,25.7,60.2,78.0,1264.0,Amity,Foundation
+ID_8808,F,99.9,101.7,69.5,69.4,1398.0,Uni of Dubai,Foundation
+ID_7130,M,53.1,61.5,70.6,83.3,1212.0,CUD,Year 13
+ID_9216,female,,67.2,70.2,83.5,993.0,RIT Dubai,Foundation
+ID_3081,Male,85.9,53.4,72.4,70.4,1259.0,Amity,Year 13
+ID_3360,female,98.1,48.0,75.1,74.3,1511.0,Murdoch,Foundation
+ID_3781,Male,71.5,115.6,65.1,64.6,1211.0,Zayed Uni,Foundation
+ID_4740,Male,70.5,30.5,67.4,78.1,1613.0,CUD,Year 13
+ID_7832,FEMALE,79.3,48.5,93.5,101.2,1464.0,RIT Dubai,Foundation
+ID_9399,M,69.8,85.6,67.2,86.5,1648.0,AUD,Year 13
+ID_8437,M,65.5,38.0,70.4,61.8,1175.0,Zayed Uni,Foundation
+ID_8604,M,78.3,50.3,53.0,67.4,1388.0,Am. Uni Sharjah,Year 13
+ID_8157,F,73.2,68.6,66.9,60.3,1851.0,AUS,Year 13
+ID_3639,FEMALE,60.5,63.1,63.1,78.2,1458.0,Heriot-Watt,Foundation
+ID_4219,Male,57.4,50.8,69.6,69.4,1119.0,uowd,Foundation
+ID_2045,female,,35.5,77.8,102.5,1543.0,AUD,Foundation
+ID_6056,female,78.9,41.7,71.4,67.7,1177.0,Uni of Dubai,Year 13
+ID_2803,F,38.4,91.8,82.3,69.3,1175.0,RIT Dubai,Year 13
+ID_9946,F,63.9,86.4,62.1,64.9,2040.0,Manipal,Foundation
+ID_9842,M,96.3,64.4,82.1,81.6,1276.0,Uni of Dubai,Year 13
+ID_3623,M,95.7,65.4,63.7,77.2,1131.0,uowd,Year 13
+ID_7262,F,58.3,82.1,72.1,91.8,1337.0,Uni of Dubai,Foundation
+ID_6826,female,65.2,56.4,84.6,93.6,1640.0,Khalifa Uni,Year 13
+ID_9208,Male,43.1,86.7,68.6,75.1,1652.0,Birmingham Uni,Foundation
+ID_1911,Male,50.0,35.7,68.3,66.0,961.0,Murdoch,Foundation
+ID_6120,Male,71.4,101.1,75.0,70.9,1593.0,University of Wollongong Dubai,Year 13
+ID_9308,F,,87.3,77.3,84.0,1314.0,Birmingham Uni,Foundation
+ID_9972,female,72.9,75.7,70.2,77.6,1353.0,BUiD,Year 13
+ID_4435,Male,99.3,103.2,86.6,94.2,1406.0,AUS,Foundation
+ID_4623,Male,,85.0,67.8,98.5,1885.0,RIT Dubai,Year 13
+ID_9226,M,82.8,59.5,68.3,63.0,1261.0,Uni of Dubai,Year 13
+ID_7270,F,,106.8,85.0,71.1,1678.0,uowd,Year 13
+ID_1908,Male,84.1,52.4,72.0,87.2,1268.0,UOWD,Foundation
+ID_8418,Male,,73.0,70.8,67.9,1212.0,Manipal,Foundation
+ID_1236,female,72.1,79.3,72.7,86.5,1594.0,Zayed Uni,Year 13
+ID_6279,Male,94.1,92.1,83.7,103.0,1509.0,Manipal,Foundation
+ID_5526,F,74.9,64.3,66.5,93.5,1414.0,Khalifa Uni,Foundation
+ID_5261,female,100.7,32.5,76.1,72.8,1317.0,University of Wollongong Dubai,Year 13
+ID_5799,M,74.8,41.9,78.2,61.6,1267.0,Birmingham Uni,Year 13
+ID_3752,F,77.5,45.4,68.0,80.9,1339.0,UOWD,Year 13
+ID_4017,female,83.0,19.3,67.2,87.2,1297.0,KU,Foundation
+ID_5347,female,76.9,34.6,55.9,87.2,1680.0,ADU,Year 13
+ID_2267,M,49.5,86.0,78.2,79.7,968.0,KU,Foundation
+ID_1175,F,65.9,64.5,84.8,98.8,1521.0,Birmingham Uni,Year 13
+ID_1898,Male,94.1,69.7,65.6,73.4,1349.0,AUS,Year 13
+ID_4083,Male,94.1,23.4,83.8,94.1,1694.0,KU,Year 13
+ID_5907,female,58.4,81.0,95.6,84.7,1361.0,ADU,Year 13
+ID_8370,F,75.1,89.9,69.0,64.7,931.0,ADU,Foundation
+ID_4739,FEMALE,66.8,66.1,83.7,72.3,1819.0,BUiD,Foundation
+ID_9695,F,48.1,88.8,74.3,110.7,984.0,Zayed Uni,Foundation
+ID_3726,FEMALE,79.3,60.6,73.7,79.2,1326.0,University of Wollongong Dubai,Foundation
+ID_6322,FEMALE,79.5,57.2,76.8,54.8,1674.0,KU,Foundation
+ID_7354,M,39.8,91.3,65.5,90.7,1292.0,Amity,Year 13
+ID_6196,M,96.3,57.7,79.7,86.4,1284.0,KU,Year 13
+ID_9784,female,64.3,55.4,74.6,94.1,916.0,Zayed Uni,Foundation
+ID_8772,M,70.3,77.5,69.4,78.7,1581.0,Amity,Foundation
+ID_4586,Male,43.4,57.2,80.2,70.2,1247.0,BUiD,Year 13
+ID_6070,FEMALE,62.1,92.1,58.5,75.1,1275.0,Amity,Year 13
+ID_3333,M,70.1,71.2,79.8,85.1,737.0,Birmingham Uni,Foundation
+ID_7341,female,90.5,50.2,82.9,89.2,1249.0,AUS,Year 13
+ID_7275,female,53.5,88.4,67.2,67.7,1299.0,CUD,Year 13
+ID_9530,F,74.1,63.9,63.1,101.9,1394.0,Amity,Foundation
+ID_5158,M,58.3,86.7,75.4,72.2,1338.0,KU,Year 13
+ID_8880,FEMALE,67.5,77.1,68.6,90.7,1225.0,Am. Uni Sharjah,Year 13
+ID_9649,M,76.2,71.3,71.4,86.8,1167.0,BUiD,Foundation
+ID_2900,M,70.6,78.7,55.2,72.7,2007.0,BUiD,Foundation
+ID_6820,female,61.4,63.4,84.9,87.0,1474.0,Heriot-Watt,Foundation
+ID_3122,female,76.8,62.9,90.7,87.1,1435.0,Middlesex Dubai,Foundation
+ID_8258,M,95.1,70.6,89.9,62.8,1689.0,CUD,Foundation
+ID_3463,F,105.5,57.4,92.4,79.0,957.0,CUD,Foundation
+ID_7395,FEMALE,53.7,87.1,52.3,75.6,2179.0,CUD,Foundation
+ID_8098,F,69.8,42.6,91.4,90.9,1602.0,Uni of Dubai,Year 13
+ID_9534,Male,67.1,52.4,87.9,74.9,1469.0,ADU,Year 13
+ID_2297,female,56.0,45.1,73.1,73.8,1245.0,UOWD,Foundation
+ID_4737,Male,59.6,62.6,75.2,55.0,1032.0,KU,Foundation
+ID_7523,F,75.0,50.3,84.7,89.2,1509.0,RIT Dubai,Foundation
+ID_8452,F,76.0,79.4,93.2,77.0,1562.0,Amity,Year 13
+ID_1026,Male,61.2,114.0,75.0,68.2,1655.0,Middlesex Dubai,Foundation
+ID_2728,female,79.8,62.1,68.4,88.5,1420.0,Middlesex Dubai,Year 13
+ID_2246,Male,72.7,48.3,79.8,74.6,1360.0,University of Wollongong Dubai,Foundation
+ID_9006,Male,80.6,93.7,68.0,65.3,1383.0,Murdoch,Year 13
+ID_8976,FEMALE,68.8,80.4,74.2,77.7,1398.0,uowd,Foundation
+ID_3987,FEMALE,55.8,90.0,64.4,90.9,1662.0,Manipal,Foundation
+ID_3982,F,83.0,64.7,61.1,75.2,1361.0,Heriot-Watt,Foundation
+ID_8216,M,69.0,48.5,64.4,69.4,1680.0,UOWD,Year 13
+ID_8122,female,60.1,54.7,73.7,65.1,1895.0,KU,Foundation
+ID_2960,female,71.1,44.0,65.3,72.6,1211.0,AUD,Foundation
+ID_1157,M,73.4,26.1,89.7,68.5,1087.0,Am. Uni Sharjah,Foundation
+ID_4296,FEMALE,55.3,77.7,73.8,72.5,1461.0,CUD,Year 13
+ID_5277,M,77.1,79.2,71.4,92.6,1416.0,Am. Uni Sharjah,Foundation
+ID_7398,M,47.1,112.4,89.0,80.9,1475.0,uowd,Year 13
+ID_7440,Male,69.5,30.2,91.7,78.4,1297.0,Manipal,Year 13
+ID_7254,Male,61.0,56.0,64.8,68.1,1078.0,Heriot-Watt,Foundation
+ID_5394,M,56.5,93.4,89.5,62.8,1181.0,Khalifa Uni,Foundation
+ID_3607,M,80.2,41.2,94.4,68.9,1566.0,Heriot-Watt,Foundation
+ID_9428,female,85.9,53.9,71.6,96.3,1204.0,AUS,Foundation
+ID_8398,M,92.5,69.2,75.6,73.3,923.0,Khalifa Uni,Foundation
+ID_6264,FEMALE,77.1,104.4,78.7,88.8,1611.0,Am. Uni Sharjah,Year 13
+ID_6866,F,64.9,58.7,78.1,83.3,1608.0,Uni of Dubai,Year 13
+ID_7185,Male,89.2,66.6,68.8,67.4,2219.0,Amity,Year 13
+ID_7411,M,78.1,72.6,88.7,70.4,1544.0,Uni of Dubai,Year 13
+ID_8383,FEMALE,68.4,61.3,84.8,75.2,1568.0,Murdoch,Year 13
+ID_1995,Male,44.3,86.0,76.0,75.3,1500.0,AUS,Foundation
+ID_5370,female,104.3,29.7,67.3,95.2,1176.0,Khalifa Uni,Year 13
+ID_5065,Male,,42.3,85.3,56.5,1535.0,Manipal,Foundation
+ID_7508,female,65.1,41.6,60.9,79.9,1093.0,UOWD,Foundation
+ID_9760,M,70.5,56.0,77.9,68.7,1386.0,Amity,Year 13
+ID_9633,FEMALE,47.3,77.6,83.1,78.4,1952.0,Murdoch,Year 13
+ID_5111,M,89.6,80.5,70.2,92.8,1336.0,Khalifa Uni,Foundation
+ID_2904,F,63.1,74.5,64.8,65.3,1662.0,Zayed Uni,Year 13
+ID_5761,FEMALE,55.8,52.7,61.5,70.7,1392.0,University of Wollongong Dubai,Year 13
+ID_9359,female,52.3,42.0,64.9,82.3,1485.0,Heriot-Watt,Year 13
+ID_2041,FEMALE,65.6,84.0,71.9,63.2,1719.0,Uni of Dubai,Year 13
+ID_4776,F,68.6,99.6,75.3,88.7,1265.0,AUD,Foundation
+ID_2764,M,37.5,60.5,78.0,71.3,1322.0,AUS,Year 13
+ID_1521,M,64.9,52.5,75.2,50.7,1369.0,Murdoch,Foundation
+ID_8655,female,64.4,54.7,96.2,44.7,1355.0,Murdoch,Foundation
+ID_4318,F,95.9,67.4,73.2,85.8,1182.0,University of Wollongong Dubai,Year 13
+ID_3670,F,68.8,49.0,70.0,98.9,2001.0,Zayed Uni,Year 13
+ID_9811,FEMALE,73.3,55.7,73.7,61.6,1460.0,Amity,Foundation
+ID_2671,M,96.8,84.7,59.1,80.1,1513.0,BUiD,Year 13
+ID_6652,M,68.9,49.2,73.1,85.1,1332.0,University of Wollongong Dubai,Year 13
+ID_1634,Male,87.1,90.2,81.2,79.1,1290.0,Middlesex Dubai,Year 13
+ID_7199,M,62.1,43.5,54.5,73.4,1392.0,Uni of Dubai,Foundation
+ID_9906,female,62.2,80.9,88.5,90.7,1518.0,Am. Uni Sharjah,Year 13
+ID_3032,Male,70.2,45.4,86.8,81.7,1452.0,Am. Uni Sharjah,Year 13
+ID_1661,female,63.0,34.5,63.5,88.3,1466.0,CUD,Year 13
+ID_6425,female,89.7,64.7,73.6,71.7,1713.0,University of Wollongong Dubai,Foundation
+ID_3450,FEMALE,56.0,72.3,57.8,73.7,1094.0,UOWD,Foundation
+ID_7447,female,87.6,53.3,78.8,70.9,1028.0,Am. Uni Sharjah,Foundation
+ID_6234,F,60.3,21.9,74.7,71.3,1043.0,University of Wollongong Dubai,Foundation
+ID_9372,Male,87.8,78.3,60.5,77.6,1623.0,Khalifa Uni,Year 13
+ID_5270,F,85.9,72.9,76.7,67.8,1552.0,UOWD,Foundation
+ID_7962,female,58.7,63.0,68.3,95.2,1638.0,RIT Dubai,Foundation
+ID_9521,female,44.6,62.4,69.9,83.8,1188.0,Uni of Dubai,Foundation
+ID_7345,FEMALE,74.6,50.4,74.6,73.9,1396.0,KU,Foundation
+ID_9639,F,63.7,48.8,71.1,96.1,1130.0,Khalifa Uni,Foundation
+ID_4704,M,72.4,94.9,68.6,67.1,1276.0,RIT Dubai,Foundation
+ID_6370,Male,60.0,119.4,83.4,91.2,1523.0,UOWD,Year 13
+ID_9829,Male,45.9,72.9,82.1,66.4,1342.0,Heriot-Watt,Foundation
+ID_3572,FEMALE,92.1,43.0,71.4,95.2,943.0,Murdoch,Foundation
+ID_4862,M,39.0,66.8,77.2,93.6,959.0,uowd,Foundation
+ID_9710,FEMALE,63.9,87.1,71.2,77.2,1521.0,KU,Foundation
+ID_8509,female,86.3,58.3,59.8,81.5,1455.0,Heriot-Watt,Foundation
+ID_4631,F,95.1,51.5,81.6,88.7,1560.0,ADU,Foundation
+ID_8933,M,,55.3,54.5,69.8,1067.0,Amity,Foundation
+ID_9559,F,73.5,48.2,67.6,75.4,500.0,uowd,Foundation
+ID_1434,Male,59.5,47.5,84.4,87.1,1849.0,Birmingham Uni,Year 13
+ID_4334,female,65.3,55.0,80.4,75.2,1351.0,Zayed Uni,Foundation
+ID_8124,M,76.1,53.1,82.0,87.7,1802.0,University of Wollongong Dubai,Year 13
+ID_7007,Male,,85.6,60.9,83.3,1613.0,uowd,Foundation
+ID_2551,female,83.4,42.7,73.0,84.6,1395.0,Zayed Uni,Year 13
+ID_8366,FEMALE,55.3,50.5,66.2,82.0,1067.0,University of Wollongong Dubai,Foundation
+ID_5706,female,66.3,71.7,80.5,70.1,1146.0,Murdoch,Year 13
+ID_9435,Male,62.4,61.6,89.4,80.0,1403.0,Khalifa Uni,Foundation
+ID_5716,Male,94.6,36.4,90.8,67.6,1417.0,CUD,Foundation
+ID_2897,F,80.7,56.9,75.0,79.4,982.0,KU,Foundation
+ID_4164,female,110.7,75.4,64.4,99.6,1313.0,AUS,Foundation
+ID_6813,female,65.8,93.4,77.9,86.8,1748.0,Khalifa Uni,Year 13
+ID_7263,FEMALE,70.3,71.3,69.7,86.4,1599.0,BUiD,Year 13
+ID_8979,female,94.5,36.9,62.0,93.8,1578.0,ADU,Year 13
+ID_5903,M,54.6,77.1,73.8,95.5,1785.0,ADU,Foundation
+ID_9645,female,73.1,82.8,73.0,74.5,1511.0,Amity,Foundation
+ID_6371,M,82.2,77.0,68.6,82.2,1677.0,Amity,Foundation
+ID_6244,M,65.6,67.2,101.1,80.3,1415.0,ADU,Foundation
+ID_7315,M,71.6,52.2,66.8,77.6,923.0,Middlesex Dubai,Foundation
+ID_9444,M,80.3,66.5,86.9,61.9,1320.0,Birmingham Uni,Year 13
+ID_2821,Male,72.2,28.3,79.5,62.1,1755.0,Amity,Foundation
+ID_5958,FEMALE,57.7,97.8,55.8,84.9,1355.0,KU,Foundation
+ID_3405,Male,72.3,57.0,69.8,84.0,1662.0,Uni of Dubai,Year 13
+ID_6477,M,55.2,77.0,83.5,72.1,1471.0,AUD,Year 13
+ID_4420,female,84.4,88.3,64.8,73.6,1605.0,Heriot-Watt,Year 13
+ID_4185,Male,71.7,77.8,72.3,80.6,1194.0,AUD,Foundation
+ID_4145,F,80.6,63.4,58.2,72.0,1470.0,AUS,Foundation
+ID_2765,F,84.8,47.2,75.7,70.2,1318.0,CUD,Foundation
+ID_1315,M,100.0,58.8,62.4,89.6,1197.0,BUiD,Foundation
+ID_1098,Male,52.3,8.0,80.4,102.7,1437.0,Am. Uni Sharjah,Year 13
+ID_1318,FEMALE,48.8,52.1,87.7,68.5,1591.0,University of Wollongong Dubai,Year 13
+ID_7996,M,87.6,95.5,94.0,112.4,1175.0,Amity,Year 13
+ID_6388,female,112.4,57.9,78.0,72.4,1378.0,ADU,Foundation
+ID_3404,M,59.7,90.7,74.4,79.7,1519.0,Amity,Foundation
+ID_7087,FEMALE,87.6,31.9,56.1,85.6,1348.0,RIT Dubai,Foundation
+ID_4769,FEMALE,89.8,91.6,73.8,61.9,1279.0,UOWD,Year 13
+ID_6329,Male,47.7,42.5,69.8,106.9,1714.0,Zayed Uni,Year 13
+ID_6037,FEMALE,80.3,71.7,80.6,75.5,1536.0,Am. Uni Sharjah,Year 13
+ID_2571,M,,65.0,71.3,75.1,1213.0,ADU,Foundation
+ID_7431,FEMALE,,51.2,79.7,93.7,1693.0,Uni of Dubai,Foundation
+ID_6009,female,51.2,90.8,80.3,57.0,1304.0,BUiD,Year 13
+ID_3787,F,62.5,77.2,88.5,75.9,1740.0,uowd,Year 13
+ID_3249,FEMALE,67.2,82.0,48.0,63.9,1437.0,Middlesex Dubai,Foundation
+ID_3871,Male,93.0,36.1,79.4,82.9,1165.0,AUS,Year 13
+ID_8610,M,86.8,81.1,80.1,91.8,1185.0,Murdoch,Foundation
+ID_5488,F,60.2,92.0,96.0,77.5,1940.0,Uni of Dubai,Year 13
+ID_6246,F,71.4,57.4,89.9,72.2,1222.0,uowd,Year 13
+ID_6429,female,59.5,85.6,71.2,73.1,1683.0,AUS,Foundation
+ID_3886,female,94.0,77.9,76.8,78.5,1716.0,AUS,Year 13
+ID_6000,M,54.9,66.7,57.8,66.9,1274.0,BUiD,Year 13
+ID_4289,Male,68.9,102.8,67.0,80.7,1515.0,CUD,Foundation
+ID_3253,female,65.6,89.2,74.8,97.7,1627.0,uowd,Year 13
+ID_5311,Male,,109.2,83.7,101.1,1279.0,Khalifa Uni,Year 13
+ID_3819,M,70.8,61.6,82.1,93.3,1543.0,uowd,Year 13
+ID_1402,FEMALE,71.5,95.0,83.9,75.0,1200.0,Heriot-Watt,Foundation
+ID_2744,M,55.8,57.5,88.4,69.2,1215.0,AUD,Year 13
+ID_5307,Male,101.8,84.6,82.6,75.6,1345.0,ADU,Foundation
+ID_9823,F,54.9,2.2,73.6,64.3,1415.0,Heriot-Watt,Foundation
+ID_5192,Male,45.6,66.7,94.3,64.8,1629.0,Birmingham Uni,Foundation
+ID_2937,M,87.4,33.9,61.0,77.0,1964.0,Murdoch,Foundation
+ID_7893,F,67.0,61.3,72.4,82.4,1444.0,University of Wollongong Dubai,Year 13
+ID_1029,Male,75.2,52.4,67.9,62.5,1421.0,AUD,Foundation
+ID_3744,F,53.8,41.5,81.1,70.5,1456.0,RIT Dubai,Foundation
+ID_1535,M,70.9,68.7,65.1,79.3,1438.0,AUS,Year 13
+ID_8082,female,47.5,84.9,77.7,70.6,1853.0,Birmingham Uni,Year 13
+ID_6585,female,76.0,52.6,67.1,53.1,1439.0,Murdoch,Foundation
+ID_7867,F,68.8,87.7,89.4,83.1,1644.0,Manipal,Year 13
+ID_8883,FEMALE,62.6,35.8,77.4,54.2,1333.0,University of Wollongong Dubai,Foundation
+ID_5830,Male,76.6,54.6,81.6,76.2,1408.0,Heriot-Watt,Foundation
+ID_5517,Male,67.4,88.1,86.6,83.2,1442.0,CUD,Foundation
+ID_7715,M,34.1,51.4,53.3,67.1,1489.0,uowd,Foundation
+ID_5621,M,69.2,64.2,83.2,91.3,1504.0,Birmingham Uni,Foundation
+ID_6312,F,55.5,26.4,81.6,75.7,1357.0,Murdoch,Foundation
+ID_1578,F,55.9,44.7,78.4,75.2,1403.0,Manipal,Foundation
+ID_9575,M,87.1,41.4,70.8,76.4,1349.0,AUS,Foundation
+ID_9443,female,72.6,82.6,65.5,75.8,1470.0,KU,Foundation
+ID_2919,female,65.9,76.7,76.0,75.4,947.0,uowd,Foundation
+ID_1578,M,109.5,46.8,81.0,58.6,1487.0,Heriot-Watt,Foundation
+ID_9675,FEMALE,60.5,50.3,74.5,59.0,1497.0,Manipal,Foundation
+ID_3737,female,80.2,70.3,69.4,83.6,1264.0,Birmingham Uni,Foundation
+ID_6831,Male,62.4,34.6,63.9,80.4,1539.0,BUiD,Year 13
+ID_3920,FEMALE,74.2,80.8,74.8,56.8,2148.0,UOWD,Foundation
+ID_1294,F,96.2,79.5,72.4,93.3,1198.0,Manipal,Foundation
+ID_7796,M,66.3,55.6,86.2,97.2,1782.0,RIT Dubai,Year 13
+ID_8721,M,81.4,59.9,76.0,77.9,1068.0,CUD,Foundation
+ID_2043,F,69.6,76.1,81.3,86.2,1637.0,AUD,Foundation
+ID_9533,Male,79.1,56.8,71.9,74.9,1924.0,Am. Uni Sharjah,Year 13
+ID_8912,female,79.0,109.1,75.8,32.0,1709.0,University of Wollongong Dubai,Year 13
+ID_4578,FEMALE,61.9,49.0,70.3,69.5,1833.0,uowd,Year 13
+ID_5537,female,91.3,77.5,81.4,68.6,1155.0,AUS,Foundation
+ID_7441,FEMALE,62.4,69.8,61.8,81.0,1942.0,uowd,Foundation
+ID_7312,F,53.3,75.9,79.5,89.1,1280.0,Zayed Uni,Year 13
+ID_1717,FEMALE,63.5,108.7,61.1,67.3,621.0,Heriot-Watt,Foundation
+ID_8196,female,70.8,86.1,82.9,89.0,1153.0,University of Wollongong Dubai,Year 13
+ID_1786,F,94.2,45.7,58.6,74.8,1362.0,University of Wollongong Dubai,Year 13
+ID_7289,F,69.4,132.5,81.8,73.1,1136.0,BUiD,Foundation
+ID_6176,female,41.8,44.5,101.0,88.4,1485.0,uowd,Year 13
+ID_3516,F,75.9,54.6,92.2,75.7,1378.0,Khalifa Uni,Foundation
+ID_2346,F,36.8,61.1,85.4,87.0,1443.0,UOWD,Year 13
+ID_9874,female,78.8,54.4,71.1,64.5,1495.0,Middlesex Dubai,Foundation
+ID_6878,female,106.9,80.6,85.3,70.4,1020.0,University of Wollongong Dubai,Foundation
+ID_3258,female,36.9,44.9,84.4,79.8,1144.0,AUS,Foundation
+ID_5756,F,60.5,26.9,98.8,76.6,1817.0,UOWD,Year 13
+ID_2967,Male,74.6,104.5,78.8,75.8,1658.0,AUS,Year 13
+ID_6108,M,91.8,55.4,76.3,70.9,940.0,Murdoch,Foundation
+ID_6137,FEMALE,58.2,46.9,102.0,80.9,1187.0,BUiD,Year 13
+ID_3783,F,83.0,80.4,80.5,76.7,1297.0,RIT Dubai,Year 13
+ID_3331,FEMALE,81.1,24.8,61.8,99.7,1810.0,BUiD,Foundation
+ID_2090,F,71.0,98.3,70.7,87.7,1597.0,BUiD,Year 13
+ID_4012,F,76.9,68.0,82.1,90.4,1497.0,AUS,Year 13
+ID_6713,FEMALE,55.4,37.9,71.6,92.6,1396.0,BUiD,Foundation
+ID_6653,F,73.9,25.2,78.3,73.5,1479.0,Middlesex Dubai,Foundation
+ID_4850,Male,78.8,90.7,81.1,73.0,1509.0,Murdoch,Foundation
+ID_9436,M,97.5,63.9,66.1,71.2,1252.0,ADU,Foundation
+ID_6136,F,79.8,70.1,80.9,64.1,1493.0,University of Wollongong Dubai,Year 13
+ID_2800,M,78.4,97.5,77.4,73.4,1171.0,Heriot-Watt,Foundation
+ID_6796,Male,73.7,16.2,70.4,65.2,1607.0,Khalifa Uni,Foundation
+ID_1522,female,47.4,67.0,78.1,79.1,1711.0,University of Wollongong Dubai,Foundation
+ID_6728,M,71.9,35.8,66.7,86.6,1046.0,KU,Foundation
+ID_4088,Male,49.4,96.5,71.5,68.0,1624.0,BUiD,Foundation
+ID_9877,F,83.9,68.4,79.4,80.2,1482.0,Am. Uni Sharjah,Foundation
+ID_4568,Male,74.7,77.5,73.3,94.2,809.0,UOWD,Foundation
+ID_5159,Male,100.8,30.9,96.2,62.1,1604.0,Middlesex Dubai,Foundation
+ID_1132,F,54.7,63.7,75.9,71.4,1272.0,University of Wollongong Dubai,Foundation
+ID_9363,female,74.3,83.9,73.0,56.2,1291.0,Khalifa Uni,Foundation
+ID_1314,FEMALE,94.9,49.7,74.2,70.4,1585.0,University of Wollongong Dubai,Foundation
+ID_5530,Male,65.7,68.0,77.1,75.9,1840.0,Amity,Foundation
+ID_2370,F,67.4,60.3,61.9,80.3,1187.0,Middlesex Dubai,Foundation
+ID_9690,F,80.0,109.2,76.4,66.0,1467.0,RIT Dubai,Year 13
+ID_1964,F,68.0,47.3,68.8,64.8,1583.0,Uni of Dubai,Foundation
+ID_7025,female,85.1,65.5,58.8,61.9,1076.0,ADU,Foundation
+ID_6833,Male,67.3,84.8,71.2,85.2,1750.0,UOWD,Foundation
+ID_6171,Male,51.9,53.7,59.6,77.1,1283.0,AUS,Foundation
+ID_8210,M,63.6,68.1,59.5,104.6,1063.0,AUS,Foundation
+ID_1344,female,65.2,64.4,86.4,103.1,1157.0,Khalifa Uni,Year 13
+ID_5837,F,76.4,76.4,67.8,93.2,1157.0,UOWD,Year 13
+ID_1525,FEMALE,68.3,53.9,81.8,70.4,1699.0,Murdoch,Year 13
+ID_8945,FEMALE,96.8,115.1,70.5,100.7,1334.0,Birmingham Uni,Foundation
+ID_6723,M,49.4,58.9,82.8,85.9,1613.0,Khalifa Uni,Year 13
+ID_4663,FEMALE,70.1,56.4,77.3,66.9,1722.0,Manipal,Foundation
+ID_3072,female,60.5,87.6,73.4,75.9,1150.0,AUD,Year 13
+ID_2318,FEMALE,44.0,58.5,77.1,90.1,1289.0,BUiD,Year 13
+ID_5232,Male,56.8,36.1,92.1,91.7,1281.0,AUD,Foundation
+ID_5644,Male,74.8,77.8,92.0,82.0,1562.0,Manipal,Year 13
+ID_2634,FEMALE,65.2,37.8,78.9,69.2,1285.0,Heriot-Watt,Foundation
+ID_6608,Male,70.1,66.6,86.8,72.8,1322.0,Heriot-Watt,Foundation
+ID_4080,Male,50.1,50.2,75.8,83.6,1476.0,AUD,Year 13
+ID_5241,Male,81.8,63.1,86.6,73.2,1577.0,Murdoch,Year 13
+ID_8636,FEMALE,83.9,69.2,75.0,69.9,1761.0,Middlesex Dubai,Foundation
+ID_6208,Male,48.5,73.9,57.8,69.4,1503.0,CUD,Foundation
+ID_1227,Male,76.2,89.3,67.5,74.3,1183.0,Manipal,Year 13
+ID_4980,FEMALE,70.2,19.9,79.3,80.1,1245.0,AUS,Year 13
+ID_3445,M,45.7,77.6,70.3,55.9,1168.0,Am. Uni Sharjah,Foundation
+ID_2672,M,71.5,51.0,72.9,95.5,991.0,Khalifa Uni,Foundation
+ID_6213,M,99.0,67.7,83.5,71.1,1718.0,Heriot-Watt,Year 13
+ID_4725,M,46.3,57.3,67.4,109.0,1505.0,Am. Uni Sharjah,Foundation
+ID_1968,female,79.2,87.8,67.6,48.1,1687.0,ADU,Year 13
+ID_5499,M,65.7,69.4,73.3,77.9,1155.0,Zayed Uni,Foundation
+ID_1281,Male,47.5,79.5,58.1,89.0,1537.0,uowd,Foundation
+ID_7251,FEMALE,63.0,85.4,77.1,73.9,1640.0,Am. Uni Sharjah,Year 13
+ID_1575,F,79.7,51.3,75.5,75.7,1082.0,Birmingham Uni,Foundation
+ID_4794,FEMALE,86.3,90.5,63.6,84.1,1246.0,Birmingham Uni,Foundation
+ID_5102,female,94.3,49.6,70.6,88.1,953.0,UOWD,Foundation
+ID_5807,F,113.4,69.9,63.7,64.9,1540.0,AUD,Year 13
+ID_5410,M,78.4,62.2,87.0,88.1,1577.0,CUD,Foundation
+ID_3769,FEMALE,68.7,111.1,61.0,87.6,1816.0,University of Wollongong Dubai,Year 13
+ID_9264,FEMALE,65.1,82.2,86.5,93.3,1664.0,CUD,Year 13
+ID_3557,female,75.2,58.2,84.0,80.5,1511.0,Murdoch,Year 13
+ID_7616,F,76.4,32.9,77.6,65.4,1318.0,Murdoch,Year 13
+ID_9120,female,68.0,82.4,78.3,64.5,1745.0,Am. Uni Sharjah,Foundation
+ID_7050,Male,100.6,67.9,80.5,73.7,1456.0,Middlesex Dubai,Foundation
+ID_7828,Male,78.3,75.6,73.8,77.6,1626.0,Khalifa Uni,Year 13
+ID_4859,FEMALE,65.2,100.3,79.0,62.9,1629.0,CUD,Year 13
+ID_4823,FEMALE,97.1,61.2,88.9,92.1,1458.0,Uni of Dubai,Foundation
+ID_2967,M,73.3,99.0,85.7,80.3,1635.0,Murdoch,Year 13
+ID_5499,M,101.6,78.4,64.3,59.4,1604.0,Birmingham Uni,Foundation
+ID_6254,F,57.1,86.9,53.1,96.4,1681.0,UOWD,Year 13
+ID_5442,FEMALE,63.7,45.9,80.2,71.9,1355.0,uowd,Year 13
+ID_7231,M,73.0,86.9,76.4,101.5,1598.0,RIT Dubai,Year 13
+ID_4159,FEMALE,76.8,106.0,75.0,87.4,1202.0,AUD,Foundation
+ID_9216,female,,67.2,70.2,83.5,993.0,RIT Dubai,Foundation
+ID_6728,M,71.9,35.8,66.7,86.6,1046.0,KU,Foundation
+ID_1948,F,59.4,82.1,75.7,74.0,1721.0,uowd,Foundation
+ID_4965,female,91.8,84.2,87.0,99.8,1372.0,RIT Dubai,Foundation
+ID_5467,F,88.3,76.6,86.5,74.3,1700.0,Middlesex Dubai,Year 13
+ID_9776,FEMALE,65.1,98.5,73.4,72.2,1555.0,Heriot-Watt,Foundation
+ID_9001,Male,80.5,73.4,77.4,94.6,1151.0,AUD,Year 13
+ID_9265,female,66.3,48.1,79.2,79.7,1770.0,University of Wollongong Dubai,Foundation
+ID_9462,M,85.5,17.3,82.5,79.6,1507.0,KU,Year 13
+ID_1765,M,52.0,72.2,63.0,60.1,869.0,Manipal,Foundation
+ID_5750,FEMALE,73.9,42.4,81.2,85.6,1199.0,Heriot-Watt,Year 13
+ID_2510,Male,57.5,74.8,80.7,80.3,1375.0,Khalifa Uni,Foundation
+ID_7717,Male,59.3,78.6,98.9,100.1,1741.0,Uni of Dubai,Year 13
+ID_7898,female,48.6,66.4,67.9,79.8,1547.0,RIT Dubai,Foundation
+ID_7188,F,45.8,47.8,71.2,90.1,1256.0,Heriot-Watt,Foundation
+ID_7020,Male,44.7,43.7,74.9,57.7,1120.0,Middlesex Dubai,Foundation
+ID_7250,M,64.5,89.7,64.3,86.2,1698.0,Uni of Dubai,Foundation
+ID_1661,female,63.0,34.5,63.5,88.3,1466.0,CUD,Year 13
+ID_9547,M,85.7,63.4,85.3,85.1,1134.0,CUD,Year 13
+ID_2612,M,82.3,63.2,74.2,78.6,1135.0,RIT Dubai,Foundation
+ID_1430,female,,40.0,89.4,77.0,1679.0,Am. Uni Sharjah,Foundation
+ID_3817,F,70.0,66.6,74.0,89.0,1327.0,Middlesex Dubai,Foundation
+ID_2206,Male,69.1,63.8,67.6,75.8,1000.0,RIT Dubai,Foundation
+ID_3913,M,61.7,56.7,65.0,84.6,1850.0,Uni of Dubai,Year 13
+ID_9554,F,64.5,89.0,75.1,78.7,1334.0,Murdoch,Foundation
+ID_9336,FEMALE,73.4,64.6,77.9,63.9,1345.0,AUD,Foundation
+ID_1293,Male,54.9,40.7,82.7,86.0,1225.0,Khalifa Uni,Year 13
+ID_5861,female,85.9,77.3,86.1,101.2,1417.0,Middlesex Dubai,Year 13
+ID_8291,M,78.1,80.2,74.7,75.9,1302.0,uowd,Foundation
+ID_2501,FEMALE,79.0,46.0,59.7,85.4,1661.0,Middlesex Dubai,Year 13
+ID_1760,F,77.1,52.1,73.0,56.8,1615.0,Birmingham Uni,Foundation
+ID_8210,M,63.6,68.1,59.5,104.6,1063.0,AUS,Foundation
+ID_4593,Male,63.9,54.5,69.8,68.8,1619.0,CUD,Foundation
+ID_9710,FEMALE,63.9,87.1,71.2,77.2,1521.0,KU,Foundation
+ID_2987,Male,61.2,55.8,89.7,84.5,1273.0,uowd,Foundation
+ID_9483,FEMALE,65.2,67.3,69.5,79.8,1389.0,Khalifa Uni,Year 13
+ID_7288,M,76.6,63.0,68.5,73.6,1642.0,Zayed Uni,Foundation
+ID_6879,FEMALE,82.4,42.8,74.6,71.6,1008.0,KU,Foundation
+ID_4463,FEMALE,73.5,49.9,80.8,47.9,1390.0,AUS,Foundation
+ID_5904,F,78.0,89.6,73.6,63.8,1221.0,Birmingham Uni,Foundation
+ID_1026,Male,61.2,114.0,75.0,68.2,1655.0,Middlesex Dubai,Foundation
+ID_7161,F,66.2,27.1,78.1,63.7,1301.0,RIT Dubai,Foundation
+ID_2956,F,61.4,64.9,63.4,96.0,1619.0,RIT Dubai,Foundation
+ID_1222,M,60.2,57.5,71.8,93.4,1539.0,Murdoch,Foundation
+ID_1885,female,59.6,25.6,86.4,78.3,1347.0,Am. Uni Sharjah,Foundation
+ID_1725,female,69.7,75.1,87.0,80.2,1557.0,Birmingham Uni,Year 13
+ID_6579,F,73.5,80.4,76.7,84.8,1181.0,Uni of Dubai,Foundation
+ID_5779,F,95.9,76.2,75.8,84.5,1170.0,Murdoch,Year 13
+ID_5404,FEMALE,44.0,94.9,57.7,82.1,1145.0,BUiD,Year 13
+ID_7203,F,69.6,81.4,68.5,84.4,769.0,Khalifa Uni,Foundation
+ID_9530,F,74.1,63.9,63.1,101.9,1394.0,Amity,Foundation
+ID_6655,FEMALE,,70.9,67.9,100.4,1518.0,Manipal,Foundation
+ID_9770,F,59.7,79.7,74.2,78.9,900.0,AUS,Foundation
+ID_5212,FEMALE,83.4,52.4,77.9,78.9,1698.0,Murdoch,Year 13
+ID_6867,FEMALE,79.9,48.9,71.4,83.0,1315.0,Am. Uni Sharjah,Year 13
+ID_8447,M,79.2,68.1,72.8,70.4,854.0,Amity,Foundation
+ID_4767,Male,81.6,76.1,76.5,93.1,1342.0,University of Wollongong Dubai,Year 13
+ID_4918,M,38.8,52.2,81.6,90.3,1550.0,ADU,Foundation
+ID_5848,FEMALE,73.0,62.1,100.7,64.7,1747.0,Birmingham Uni,Foundation
+ID_2973,Male,87.4,60.6,86.0,87.9,1603.0,uowd,Year 13
+ID_4087,M,82.1,53.3,72.5,70.0,1407.0,Am. Uni Sharjah,Foundation
+ID_2090,F,71.0,98.3,70.7,87.7,1597.0,BUiD,Year 13
+ID_7585,F,55.5,54.2,59.7,72.0,1196.0,University of Wollongong Dubai,Year 13
+ID_4198,F,64.3,64.4,66.5,84.9,954.0,AUD,Foundation
+ID_4244,female,58.2,57.6,79.4,80.2,1506.0,AUD,Year 13
+ID_4012,F,76.9,68.0,82.1,90.4,1497.0,AUS,Year 13
+ID_7398,M,47.1,112.4,89.0,80.9,1475.0,uowd,Year 13
+ID_9650,M,101.8,85.6,67.7,62.6,1341.0,CUD,Foundation
+ID_4921,F,69.8,16.5,83.8,86.8,1330.0,AUD,Foundation
+ID_9090,female,73.2,63.1,84.7,77.6,1316.0,Manipal,Year 13
+ID_8808,female,50.0,21.4,85.9,60.3,1514.0,Zayed Uni,Foundation
+ID_7431,FEMALE,,51.2,79.7,93.7,1693.0,Uni of Dubai,Foundation
+ID_2031,FEMALE,69.3,33.4,75.2,61.9,1112.0,Amity,Foundation
+ID_5182,FEMALE,67.8,75.3,83.2,81.9,1267.0,Khalifa Uni,Year 13
+ID_2137,M,55.8,99.9,72.3,85.1,1124.0,Heriot-Watt,Foundation
+ID_3160,F,88.0,56.8,68.2,51.2,1663.0,Murdoch,Foundation
+ID_7619,female,,71.2,57.9,61.8,1586.0,Middlesex Dubai,Foundation
+ID_8237,M,66.5,79.9,59.9,64.1,1394.0,Khalifa Uni,Year 13
+ID_7262,F,58.3,82.1,72.1,91.8,1337.0,Uni of Dubai,Foundation
+ID_4638,M,62.7,41.0,51.8,88.3,1193.0,CUD,Year 13
+ID_7766,M,47.2,8.4,69.4,62.4,1521.0,ADU,Foundation
+ID_6646,F,61.7,72.4,54.0,85.5,1621.0,Am. Uni Sharjah,Foundation
+ID_5807,F,113.4,69.9,63.7,64.9,1540.0,AUD,Year 13
+ID_4626,F,53.7,92.0,83.9,77.2,1461.0,Birmingham Uni,Year 13
+ID_3333,M,70.1,71.2,79.8,85.1,737.0,Birmingham Uni,Foundation
+ID_8770,FEMALE,83.1,36.0,60.9,69.4,1347.0,Uni of Dubai,Foundation
+ID_5162,M,38.2,52.8,70.0,89.9,1536.0,ADU,Year 13
+ID_2654,M,35.3,55.2,88.3,66.3,1502.0,UOWD,Year 13
+ID_6533,M,93.7,63.1,71.7,74.3,1013.0,Manipal,Foundation
+ID_5249,F,,69.6,85.7,80.7,1626.0,UOWD,Foundation
+ID_1157,M,73.4,26.1,89.7,68.5,1087.0,Am. Uni Sharjah,Foundation
+ID_6322,FEMALE,79.5,57.2,76.8,54.8,1674.0,KU,Foundation
