@@ -1,30 +1,33 @@
-# AI-Driven Student Pathway & University Recommendation System
-
-### CSCI323 - Modern Artificial Intelligence Project
-**University of Wollongong in Dubai (UOWD)**
+# EduPath UAE: AI-Driven Student Academic Pathway Predictor
+### CSCI 323 - Modern Artificial Intelligence Project
+[cite_start]**University of Wollongong in Dubai (UOWD)** [cite: 1, 2]
 
 ## Project Overview
-This project is a dual-stage machine learning solution designed to automate academic advising for high school students in the UAE. The system predicts whether a student should enter a **Direct Entry (Year 13)** pathway or a **University Foundation** program and recommends a top UAE university based on their academic profile.
+[cite_start]EduPath UAE addresses the challenges of manual academic advising at Sheffield Private School by providing a data-driven, objective recommendation system[cite: 69, 81]. [cite_start]Using machine learning, the system analyzes student performance to streamline decision-making for post-secondary pathways in the UAE[cite: 108, 236].
 
-## Key Features
-* **Stochastic Data Generation:** A custom script simulating 1,500+ student records with realistic "messy" data (nulls, duplicates, and noise).
-* **Automated ETL Pipeline:** Robust data cleaning, median imputation for missing grades, and standardization of UAE university naming conventions.
-* **Advanced Feature Engineering:** * `STEM_Strength`: Aggregated Math and Physics performance.
-    * `Academic_Readiness`: A weighted index (70% STEM, 30% Literacy) to gauge university preparedness.
-* **Dual-Stage Random Forest:** An optimized ensemble model utilizing `GridSearchCV` and 5-fold cross-validation.
+## Key Features & Methodology
+* [cite_start]**Stochastic Data Simulation:** Generated 1,500+ student records with "messy" real-world characteristics (duplicates, missing values, noise) to test system robustness[cite: 45, 155].
+* [cite_start]**Automated ETL Pipeline:** Performs data cleaning, median imputation for missing grades, and categorical standardization for UAE institutions[cite: 175, 182].
+* **Dual-Stage Machine Learning Architecture:**
+    * [cite_start]**Stage 1 (Pathway Prediction):** Predicts qualification for Year 13 vs. University Foundation[cite: 49].
+    * [cite_start]**Stage 2 (University Matching):** For Foundation students, recommends the most suitable college from the Top 20 UAE universities[cite: 50, 187].
+* **Custom Feature Engineering:**
+    * [cite_start]`STEM_Strength`: Aggregated Math and Physics performance[cite: 131, 201].
+    * [cite_start]`Academic_Readiness`: A weighted index evaluating core university preparedness[cite: 131, 201].
 
-## 📊 Results
-* **Model Accuracy:** 63.00% (Achieved via Random Forest Optimization).
-* **Optimization:** Hyperparameter tuning confirmed `n_estimators: 200` and `max_depth: 10` as optimal settings.
-* **Explainability:** The project includes Feature Importance visualizations to show which subjects (e.g., EmSAT, Math) drive the most impact on student placement.
+## Performance & Optimization
+* [cite_start]**Algorithm:** Random Forest Classifier (chosen for noise handling and explainability)[cite: 120, 123].
+* [cite_start]**Optimization:** Utilized `GridSearchCV` with 5-fold cross-validation to ensure model generalization[cite: 52, 191].
+* [cite_start]**Success Metrics:** Evaluated via Accuracy, Precision, Recall, and F1 Score[cite: 112].
+* [cite_start]**Key Findings:** Feature Importance Analysis identified Mathematics, Physics, and EmSAT English as the most influential indicators[cite: 225].
 
 ## Tech Stack
-* **Language:** Python 3.x
-* **Environment:** Google Colab / Jupyter Notebooks
-* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* [cite_start]**Language:** Python [cite: 136]
+* [cite_start]**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn [cite: 137, 138, 139, 140, 141]
+* [cite_start]**Environment:** Jupyter Notebook / Google Colab [cite: 142]
 
-## 📂 Repository Structure
-* `data/`: Contains the RAW and Cleaned CSV datasets.
-* `notebooks/`: 
-    * `323_data_generator.ipynb`: The synthetic environment creator.
-    * `FINAL_CSCI323_ETL_predictionModel.ipynb`: The core
+## Team Members
+* [cite_start]**Timothy Kyle Valle** (8538797) [cite: 2]
+* [cite_start]**Divyesh Sasikumar** (8392493) [cite: 2]
+* [cite_start]**Saqib Iftekhari** (8290891) [cite: 2]
+* [cite_start]**Disha Gurav** (8331583) [cite: 2]
